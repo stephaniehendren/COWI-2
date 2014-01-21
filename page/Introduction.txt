@@ -1,14 +1,20 @@
 [SECTION] Introduction
 
-[HEADER] Purpose:
+[HEADER] Introduction
+The Ontario Building Code (OBC) is a set of regulations which provides the standards required for the design, construction, renovation and installation of buildings in the province of Ontario. 
+The OBC provides standards that are consistent in the manufacturing and supply of building materials which protect the public’s health, safety and welfare.
 
-The OWW – Onsite Wastewater Reference Guide APP is derived from the requirements under the:
+The Ministry of Municipal Affairs and Housing is responsible for the development and administration of the Ontario Building Code Act (BCA) and Ontario Building Code (OBC).  
 
-Building Code Act, 1992 S.O. 1992, CHAPTER 23
-Ontario Regulation 332/12, Building Code
+Enforcement of the Ontario Building Code generally falls under the responsibility of local municipalities. Each municipality can enforce the provisions directly or in certain cases can contract out sections of the code to a Health Unit, Conservation Authority or a registered Code agency.  The section where this most commonly happens is Part 7, the plumbing code section and Part 8 the sewage system section of the Code. 
+The principal authority, the organization that has been given responsibility under the code, is responsible for permits, inspections and enforcement of the code’s provisions.
 
-This reference guide is intended to emphasis the requirements of the Act and Regulation as it applies the design, installation, construction, operation and maintenance of Sewage Systems as defined in the Ontario Building Code (OBC). 
+[Sub header] 2012 ONTARIO BUILDING CODE (OBC) CHANGES
+ONT. REG. 332/12 comes into effect January 1, 2014.
+On November 2, 2012, the Ministry of Municipal Affairs and Housing (MMAH) new Ontario 2012 Building Code was filed as O.Reg. 332/12.
 
-[HEADER] Scope: 
+It can be found at: 
 
-This guideline is intended to assist inspectors, designers and installers in determining the most prominent features of Sewage Systems necessary to meet the requirements of the Ontario Building Code (OBC). The OBC and Building Code Act are the official documents of reference.  Note: Note all information in the OBC Ontario Building Code is contained in this guide, only specific portions that will assist practitioners in the daily reference of the code requirements.
+http://www.e-laws.gov.on.ca/html/source/regs/english/2012/elaws_src_regs_r12332_e.htm
+
+Among the amendments to Part 8 of Division B of the Code, were the introduction of two new dispersal beds and the recognition of the treatment classiﬁcations described in CAN/BNQ 3680-6000, “Onsite Residential Wastewater Treatment Technologies”.
