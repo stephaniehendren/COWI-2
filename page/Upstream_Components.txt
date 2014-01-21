@@ -1,0 +1,812 @@
+Upstream Components
+
+Septic Tanks:
+
+Septic tanks shall have a minimum working capacity of 3600 L or at least twice daily sanitary sewage flow for residences and three times daily sanitary flow for non-residential flow and: 
+Be constructed with two compartments
+First compartment 1.3 X daily sewage flow and at least 2400L
+Second compartment at least 50% of the first compartment
+Two tanks may be used in sequence with specification listed above
+Partitions separating the septic tank into compartments shall extend at least 150 mm above the liquid level at the outlet, and there shall be one or more openings through or above the partition.
+Tanks shall be at least 1000mm deep unless excavation is in rock then at least 900mm in depth
+Tanks shall not be buried more than 300mm unless access risers are used
+Tanks should not be buried at a greater depth than they are rated for by the manufacturer
+An effluent filter shall be installed in the outlet flow path of every septic tank that conforms to the requirements of NSF/ANSI 46 and has a minimum area of 550 cm2
+
+8.2.2.2.  Tanks
+(1)  Subject to Sentence (3), a tank that is used as a treatment unit in a Class 4 sewage `system or a holding tank in a Class 5 sewage system shall conform to the requirements of CSA B66, “Design, Material, and Manufacturing Requirements for Prefabricated Septic Tanks and Sewage Holding Tanks”.
+
+
+
+
+
+
+
+
+Other treatment units
+Treatment units must meet the standards in the following table: 
+
+Item
+Column 1
+Column 2
+Column 3
+
+
+Classification of Treatment Unit(1)
+Suspended Solids(2)
+CBOD5(2)
+1.
+Level II
+30
+25
+2.
+Level III
+15
+15
+3.
+Level IV
+10
+10
+
+Treatment units must be listed in MMAH Supplemental Standard SB 5 or; have been certified to CAN/BNQ 3680-600, “Onsite Residential Wastewater Treatment Technologies”
+
+Treatment units must:
+Have a sampling port
+Have an audible and visual warning alarm so located to warn the occupants of the building served or the operator of the treatment unit of a malfunction 
+
+Treatment units may be used in conjunction with:
+
+Leaching Beds; Class Level II,III,IV for a reduction of distribution pipe of one third ( L=QT/300)
+Filter Beds; Class Level II,III,IV where effluent loading rate does not exceed 100L/m2 per day
+Shallow Buried trench; Class Level IV only
+Type A Dispersal Bed; Class Level IV only
+Type B Dispersal Bed; Class Level IV only
+
+
+8.6.2.2. Other Treatment Units
+
+(1)  Except as provided in Sentence (2), a treatment unit, other than a septic tank, shall be designed such that the effluent does not exceed, for the level of the treatment unit set out in Column 1 of Table 8.6.2.2., the maximum concentrations set out opposite it in Columns 2 and 3 of Table 8.6.2.2.
+
+Pump and Siphons
+
+Pumps and siphons shall be used where there is 150 m or more of distribution pipe 
+Where two pumps are used in a system they must be set to work alternatively and if one stapes working the other will continue to dose.
+Dosing from a pump of siphon must doe at least 75% of the internal volume of the distribution pipe served within the 15 minute time frame. 
+
+Pumps are required for pressurised dosing of Shallow buried trench; Type a dispersal beds, and Type B dispersal bed distribution systems. The pump must be set to provide dosing every hour. The chamber in which the pump is located should be sized to contain one day daily design sewage flow. 
+
+
+8.6.1.3. Pumps and Siphons
+
+(1)  Where the total length of distribution pipe required is 150 m or more, the sewage system shall have at least one pump or a siphon contained in a dosing tank that may be a separate compartment within the tank structure, for distribution of the effluent.
+(2)  Alternating siphons shall not be installed in a sewage system.
+(3)  Where 2 or more pumps are employed within a dosing tank, the pumps shall be designed such that the pumps alternate dosing, and dosing shall continue in the event that one pump fails.
+(4)  Where a pump or siphon is required, the pump or siphon shall be designed to discharge a dose of at least 75% of the internal volume of the distribution pipe within a time period not exceeding fifteen minutes.
+
+Leaching Bed 8.7
+
+This section containers the general requirements for all distribution types including leaching beds, fill based absorption trenches, filter beds, shallow buried trench, type A and B dispersal beds.
+
+Leaching beds shall not be located on an average slope greater that 4:1 and no part of the leaching bed shall have a slope greater than 4:1.
+Leaching beds shall not be located on soil with a percolation rate less than 1 cm/per minute or greater than 50 cm/per minute unless the distribution system is a Shallow Buried Trench in which case soil percolation rate may be as high as 125 cm/per minute
+A leaching bed shall not be covered with any material having a hydraulic conductivity less than 0.01 m/day or impervious material (clay, silty clay, sandy clay)
+A leaching bed shall be protected from compaction that may impair the distribution pipe or the use of the system
+Distribution pipe and headers shall be detectable from the ground surface using tracer wire or magnetic sensors. 
+
+Distribution pipe length
+
+Leaching bed pipe shall be at least 40 meters linear unless in a Shallow Buried trench where it must be at least 30 meters linear
+The length of pipe in a leaching bed is calculated as QT/200
+
+The length of pipe in a leaching bed using a treatment unit is QT/300
+
+Calculation for leaching bed using Shallow Buried trench is:
+
+
+Item
+
+Column 1
+
+Column 2
+
+
+
+Percolation Time, (T) of
+Soil, min
+
+Length of Distribution Pipe, m
+1.
+
+1 < T ≤ 20
+
+Q/75
+2.
+
+20 < T ≤ 50
+
+Q/50
+3.
+
+50 < T < 125
+
+Q/30
+Item
+Column 1
+
+Column  2
+
+
+
+
+
+Percolation Time, (T) of
+Soil, min
+
+Length of Distribution Pipe, m
+1.
+
+1 < T ≤ 20
+
+Q/75
+2.
+
+20 < T ≤ 50
+
+Q/50
+3.
+
+50 < T < 125
+
+Q/30
+Calculations for 
+
+
+
+
+
+
+
+Absorption Trench Construction
+
+Trenches must be approximately the same length and not more than 30 meters for each trench
+At least 500mm wide and not more than 1000mm wide
+At least 600mm deep and not more than 900 mm deep
+Trenches shall be separated by 1600mm (1.6 meter)
+There must be at least 900mm between the bottom of the trench and high groundwater table, bedrock, or soil with a percolation rate of greater than 50mm per minute
+
+
+Distribution Pipe:
+
+Except for system requiring pressure distribution pipe shall be 3 inch trade size or greater
+Sloped down grade 30-50 mm for each 10 meter section
+Washed stone layers under the pipe shall meet table 8.7.3.3 and extend 150mm below and 50mm above the pipe
+Covered with untreated building paper of geotextile
+
+Table 8.7.3.3
+Item
+
+Column 1
+
+Column 2
+
+
+
+Particle Size
+
+Percent Passing
+1.
+
+53 mm
+
+100
+2.
+
+19 mm
+
+0-5
+3.
+
+75 µm
+
+0-1
+
+Pressure pipe:
+
+Pressure pipe shall be at least 1 inch trade size and be installed so that it is self draining between doses to prevent freezing. 
+
+8.7.4. Fill Based Absorption Trenches
+
+Hydraulic loading rates for leaching bed fill shall not exceed those outlined in table 8.7.4.1 for the area of the leaching bed.
+Table 8.7.4.1
+Item
+
+Column 1
+
+Column 2
+
+
+
+Percolation Time (T) of Soil, min
+
+Loading Rates, (L/m2)/day
+1.
+
+1 < T ≤ 20
+
+10
+2.
+
+20 < T ≤ 35
+
+8
+3.
+
+35 < T ≤ 50
+
+6
+4.
+
+T > 50
+
+4
+
+The fill shall be at lease 250mm deep over the area of the leaching bed and must extend at least 15 meters in the direction of flow away from the leaching bed. 
+If leaching bed fill or natural soil under the pipe has a percolation time of greater than 15 minutes and addition fill used must be less than 75% or the percolation rate of the soil or fill unless
+There is at lease 900mm under the trench to the limiting layer or the least permeable layer of soil or fill is used to calculate the trench length
+Leaching bed fill shall be protected from erosion and stabilised with at least a 3:1 slope 4:1 is preferable
+Clearance distances from the system shall be increased by twice the height the system is raised above natural grade.  
+
+8.7.5. Filter Beds
+Limitations
+Filter beds used with septic tank effluent may receive a maximum daily flow rate of 5000L and must be a maximum size no greater than 50 m2
+Filter beds used with treatment unit effluent Level II, Level III or Level IV may receive a maximum daily flow rate of  10,000L
+
+Effluent Hydraulic Loading
+The total base area of the absorption bed (soil contact) shall be calculated using Table 8.7.4.1
+The total area of the filter bed shall be a maximum of 50 m2  and minimum of 10m2
+For flow of less than 3000L per day the loading surface of the filter may receive up to 75 L/m2 per day.
+For flow exceeding 3000L per day the loading surface of the filter may receive up to 50 L/m2 per day.
+Filter beds used in conjunction with Level II, Level III or Level IV treatment units filter may receive up to 100 L/m2 per day
+
+Construction
+Clean sand effective size: 0.25 mm m - uniformity coefficient not less than 3.5
+Effective size 2.5 mm  - uniformity coefficient not greater than 1.5
+Uniformity coefficient not greater than 4.5
+The filter shall have a minimum depth of 750 
+Be unsaturated for its entire depth
+When multiple filters are used the each filter shall be separated by 5 meters between the distribution pipes of the beds
+The base of the filter shall extend to a minimum depth of 250mm
+Area requirements – A = QT/850
+
+8.7.6. Shallow Buried Trench
+Must be used in conjunction with Level IV treatment units or better.
+Shallow buried trench distribution shall use a chamber containing a pressure distribution pipe
+Residual pressure head at the orifice shall be at least 600mm
+Distribution shall be time dosed on an hourly bases over a 24 hour period
+Pump chambers shall have a working volume of one day daily design flow. 
+Shallow buried trench systems must meet the requirements of section 8.7.1. respecting distribution. 
+
+8.7.7. Type A Dispersal Beds
+Must be used in conjunction with Level IV treatment units or better.
+The combined thickness of the sand layer and stone layer in the dispersal bed shall be at least 500mm
+The stone layer is used as the infiltrative surface (similar to the bottom of the trench)
+
+8.7.7.1. Construction Requirements
+
+(1)  	The treatment unit used in conjunction with a leaching bed constructed as a 
+	Type A dispersal bed shall provide an effluent quality that does not exceed the maximum 	concentrations set out opposite a Level IV treatment unit in Columns 2 and 3 of Table 	8.6.2.2.
+
+(2)  	A Type A dispersal bed shall be backfilled with leaching bed fill so as to ensure that, 	after the leaching bed fill settles, the surface of the leaching bed will not form any 	depressions.
+	
+(3)  	The combined thickness of the sand layer and the stone layer of a Type A dispersal bed 	shall not be less than 500 mm.
+	
+(4) 	 Except as provided in Sentence (5), the sand layer shall,
+(a)	be comprised of sand that has,
+(i)	a percolation time of at least 6 and not more than 10 min, and
+(ii)	not more than 5% fines passing through a 0.074 mm (No. 200) sieve,
+(b)	have a minimum thickness of 300 mm, and
+(c)	have an area that is not less than the lesser of,
+(i)	the area of the stone layer determined in accordance with Sentence (6), and
+(ii)	the value determined by the formula, A = QT/850
+
+
+
+ 	where,
+	A =	the area of contact in square metres between the base of the sand and 				the underlying soil,
+	Q =	the total daily design sanitary sewage flow in litres, and
+	T =	the lesser of 50 and the percolation time of the underlying soil.
+	
+(5)  	Where the underlying soil has a percolation time of more than 15 min, the sand layer 	referred to in Sentence (4) shall,
+(a)	extend to at least 15 m beyond the perimeter of the treatment unit, or distribution 	pipes if 	utilized, in any direction that the effluent entering the soil will move horizontally, and
+(b)	have an area that is not less than the value determined by the formula, A = QT/400
+
+	where,
+	A =	the area of contact in square metres between the base of the sand and 				the underlying soil, or leaching bed fill if utilized,
+	Q =	the total daily design sanitary sewage flow in litres, and
+	T =	the lesser of 50 and the percolation time of the underlying soil.
+	
+(6)  	The stone layer shall,
+(a)	be rectangular in shape with the long dimension parallel to the site contours,
+(b)	have a minimum thickness of 200 mm,
+(c)	be protected in the manner described in Sentence 8.7.3.3.(2), and
+(d)	be constructed such that the bottom of the stone layer is at least 600 mm above the 	high ground water table, rock or soil with a percolation time of 1 min or less or greater 	than 50 min.
+(e)	have a minimum area not less than the value determined by the formula, A = Q/B
+
+	where,
+	A =	the area of the stone layer in square metres,
+	B =	the following amount,
+	(i)	50, if the total daily design sanitary sewage flow exceeds 3 000 litres, or
+	(ii)	75, if the total daily design sanitary sewage flow does not exceed 3 000 				litres, and
+	Q =	the total daily design sanitary sewage flow in litres.
+	
+(7)  	Leaching bed fill with a percolation time not exceeding 15 min may be used to satisfy 	the vertical separation requirements of Clause (6)(d), provided that the leaching bed fill 	conforms to the requirements specified in Sentence (5) regardless of the percolation 	time of the underlying soil.
+	
+(8)  	The effluent shall be evenly distributed within the stone layer to within 600 mm of	 the 	perimeter of the stone layer.
+	
+(9)  	The stone layer shall not be located closer than the minimum horizontal distances set 	out in Table 8.2.1.6.B. and these distances shall be increased when required by 	Sentence 8.7.4.2.(11).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8.7.8. Type B Dispersal Beds
+
+Type B beds shall conform to the requirement of section 8.7.2.1 
+Shall not be constructed on sloped greater than 7:1
+Must be used in conjunction with Level IV treatment units or better.
+
+Construction:
+Constructed in native soil, be rectangular in shape and constructed longitudinally along the contour of the sit
+The bed shall not be deeper than 1000mm from the bottom of the stone layer to the surface grade when placed in soils with a percolation rate greater than 15 minutes. 
+The base of the stone layer will be greater than 600mm above the groundwater table, bedrock or soil with percolation rate greater than 50 minutes. 
+
+8.7.8.2. Construction Requirements
+
+(1)  	The treatment unit used in conjunction with a leaching bed constructed as a Type B 	dispersal bed shall provide an effluent quality that does not exceed the maximum 	concentrations set out opposite a Level IV treatment unit in Columns 2 and 3 of Table 	8.6.2.2.
+	
+(2)  	A Type B dispersal bed shall be,
+(a)	rectangular in shape with the long dimension parallel to the site contours,
+(b)	not more than 1 000 mm in depth measured from the bottom of the stone layer to 	the finished grade when installed in soil with a percolation time that exceeds 15 min, 	and
+(c)	backfilled with leaching bed fill so as to ensure that, after the leaching bed fill settles, 	the surface of the leaching bed will not form any depressions.
+
+(3)  	The bottom of the stone layer shall be at least 600 mm above the high ground water 	table, rock or soil with a percolation time greater than 50 min.
+
+(4)  	The effluent shall be distributed over the Type B dispersal bed through a pressurized 	distribution system having a pressure head of not less than 600 mm when 	measured to the most distant point from the pump.
+	
+(5)  	The distribution pipes shall,
+(a)	be self-draining so as to prevent freezing of their contents, and
+(b)	have orifices of at least 3 mm in diameter, spaced equally along the length of the 	pipes.
+	
+(6)  	The stone layer containing the distribution pipes shall,
+(a)	be comprised of washed septic stone, free of fine material, with gradation 	conforming to 	Table 8.7.3.3.,
+
+Stone layer
+The stone layer shall be washed and free of fines and meet the requirements of table 8.7.3.3.
+
+Table 8.7.3.3.
+
+Item
+
+Column 1
+
+Column 2
+
+
+
+Particle Size
+
+Percent Passing
+1.
+
+53 mm
+
+100
+2.
+
+19 mm
+
+0-5
+3.
+
+75 µm
+
+0-1
+
+(b)	extend not less than 250 mm below the distribution pipe, and
+(c)	extend not less than 50 mm above the distribution pipe.
+
+(7)  	The distribution pipes shall be spaced not more than 1.2 m apart with the 	outermost 	pipe spaced not more than 600 mm from the edge of the bed.
+	
+(8)  	The pump chamber shall be sized to provide sufficient storage volume so that the 	effluent is evenly dosed on an hourly basis over a 24-hour period.
+	
+(9)  	When there is more than one Type B dispersal bed in a leaching bed, the Type B 	dispersal beds shall be separated by at least 5 m measured from the edge of the 	stone 	layers.
+	
+(10)  	A Type B dispersal bed shall not be located closer than the minimum horizontal 	distances set out in Table 8.2.1.6.B. and these distances shall be increased when 	required by Sentence 8.7.4.2.(11).
+
+
+8.7.8.3. Design Requirements
+
+(1)  	The area of a Type B dispersal bed shall not be less than the minimum area 	determined in accordance with Clause (2)(a) or (b).
+	
+(2)  	For the purposes of Sentence (1), the minimum area is either of the following,
+(a)	the area calculated based on the loading rates for Type 2 effluent set out in the Column 	headed “Type 2” found in Table 2-8 of the BCMOH, “Sewerage System Standard 	Practice Manual”, or
+(b)	the value determined by the formula, A = QT/400
+
+ 	where,
+	A =	the area of contact in square metres between the stone layer and the 				underlying soil,
+	Q =	the total daily design sanitary sewage flow in litres, and
+	T =	the percolation time of the underlying soil.
+
+(3)  	The linear loading rates of the underlying soil shall not be greater than,
+(a)	the linear loading rates set out in Table 2-11 of BCMOH, “Sewerage System Standard 	Practice Manual”, where the area of the Type B dispersal bed is determined in 	accordance with Clause (2)(a), or
+(b)	the following linear loading rate, where the area of the Type B dispersal bed is 		determined in accordance with Clause (2)(b),
+	(i)	40 L/m, for soil having a percolation time equal to or greater than 24 min, or
+	(ii)	50 L/m, for soil having a percolation time less than 24 min.
+	
+(4) 	 The width of a Type B dispersal bed shall not exceed 4 m.
+
+Dispersal Bed Area
+Area of  the dispersal bed shall be calculated using Table 2-8 of BC Ministry of Health Sewerage System Standard Practice Manual version 2 for Type 2 effluent OR A=QT/400
+Linear loading rate shall be calculated using Table 2-11 of BC Ministry of Health Sewerage System Standard Practice Manual version 2 OR 40L per linear meter for soil having a percolation rate of 24 minutes or less OR 50L per linear meter for soils having a percolation rate greater than 24 minutes. 
+A Type B bed shall not exceed 4 meters in width
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Type B dispersal bed is a leaching bed comprised of a pressurized distribution system that uniformly distributes effluent from a Level IV treatment unit as described in Table 8.6.2.2. of OBC Division B to the underlying soil, as defined in Part 8 of OBC Division B, through a set of distribution pipes installed in a bed comprised of septic stone.
+
+
+Type B Bed Calculation Requirements:
+
+Notes: 
+Type “B” distribution beds must be time dosed over 24 hours on an hourly basis
+ST = septic tank at 2 times the daily flow
+TU = Treatment Unit meeting BNQ Level IV
+PT = pump tank or chamber at 1 times the daily flow
+CU = control unit to program pump tank\
+The long edge of the Type “B” bed must be parallel with the site contours
+The stone area is equal to QT/400 where;
+Q = is the daily design sanitary sewage flow in litres
+T = the percolation rate in min/cm of the underlying soil
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8.9.2.4. Sampling of Treatment Units
+
+All treatment units used in conjunction with a an onsite system shall be sampled for CBOD5 and Total suspended solids
+Samples shall be tested using APHA/AWWA/WEF, “Standard Methods for the Examination of Water and Wastewater” once completed submitted to the CBO
+Samples are taken ever 12 months and not more than 18 month and not less than 10 months apart
+Sample results shall be less than 20mg/L for each parameter
+When sample results do not meet 20mg/L CBOD5 and/or suspended solids re-sampling of the unit shall take place within 6 months and be submitted to the CBO
+
+
+8.9.1.2.   Operation and Maintenance
+
+Every system shall be operated and maintained so that it does not discharge onto the ground, into a water course or any other water
+Every system shall be operated and maintained in accordance to it design, bases of construction and the requirements of the manufacturer 
+So as all components of the system  function in the intended manner and design
+The area surrounding the system and leaching area shall be protected from any activity that will impair or interfere with the function of the system. 
+A person operating a treatment unit must enter into a service agreement to service the treatment unit with a person who is authorised by the manufacturer of the unit and possess the require literature. 
+The CBO must be informed if the agreement is terminated or access is denied to the maintenance provider 
+
+Section 11 – Renovation
+
+11.1.1.2. Definitions (1) 
+In this Part Building system means a combination of elements or components that form a complete major division of construction in the design of a building or part of a building, including a structural or framing system, a waterproofing system, a drainage system, an exterior cladding system, a roofing system, a window system, a partition system, a corridor system, a stair system, a fire alarm and detection system, a sprinkler system or a heating, ventilation or air-conditioning system, a foundation system, a standpipe and hose system, a flooring system, a plumbing system, a sewage system or an electrical system.
+
+11.3.5. Sewage Systems 11.3.5.1. Existing Septic Tanks
+
+(1) Despite Subsections 11.3.1. to 11.3.3., where an existing septic tank is subject to material alteration, repair or replacement, the construction of the septic tank shall comply with Part 8.
+
+11.4.2.5. Sewage Systems
+
+(1) The performance level of an existing building is reduced where the existing building is extended or subject to material alteration or repair and a sewage system serving the existing building is adversely affected by the extension, alteration or repair of the existing building.
+
+(2)Except as provided in Sentence (3), the performance level of an existing building is reduced where proposed construction will increase the occupant load of an existing building, and the new occupant load will result in the total daily design sanitary sewage flow of the building, calculated in accordance with Article 8.2.1.3., exceeding the capacity of any component of a sewage system serving the building.
+
+(3)The performance level of an existing dwelling unit is reduced where proposed construction that,
+increases the number of bedrooms in the dwelling unit,
+exceeds 15% of the finished area of the dwelling unit, or
+adds new plumbing fixtures to the dwelling unit,
+will result in the total daily design sanitary sewage flow of the dwelling unit, calculated in accordance with Article 8.2.1.3., exceeding the capacity of any component of a sewage system serving the dwelling unit.
+
+(4) The performance level of an existing building is reduced where proposed construction will result in the change of a major occupancy of all or part of the existing building to another major occupancy and,
+the total daily design sanitary sewage flow of the proposed major occupancy, calculated in accordance with Article 8.2.1.3., exceeds the capacity of any component of a sewage system serving the building, or
+the type or amount of sanitary sewage which will, under the proposed major occupancy, be discharged to a sewage system serving the building, is prohibited by Article 8.1.3.1.
+
+11.4.3.6. Sewage Systems
+
+(1) Where the performance level of an existing building is reduced under Article 11.4.2.5., upgrading of a sewage system which is adversely affected by the construction, increase in occupant load, increase in the total daily design sanitary sewage flow or change in amount or type of sanitary sewage shall be required in conformance with Part 8.
+
+Section 11.5. Compliance Alternatives
+
+11.5.1. Compliance Alternatives 11.5.1.1. Compliance Alternatives
+
+(1) A compliance alternative shown in Table
+11.5.1.1.A., 11.5.1.1.B., 11.5.1.1.C., 11.5.1.1.D/E. or 11.5.1.1.F. may be substituted for a requirement contained in Part 3, 4, 6 or 8 where the chief building official is satisfied that compliance with the requirement is impracticable because,
+of structural or construction difficulties, or
+it is detrimental to the preservation of a heritage building.
+
+
+(2) A compliance alternative shown in Table
+11.5.1.1.A., 11.5.1.1.B., 11.5.1.1.C., 11.5.1.1.D/E. or 11.5.1.1.F. may be substituted for a requirement contained in Part 9 or 12 without satisfying the chief building official that compliance with the requirement is impracticable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 11.5.1.1.A.
+Compliance Alternatives for Assembly Occupancies
+Forming Part of Article 11.5.1.1.
+
+
+NUMBER
+PART 8 REQUIREMENTS
+PART 11 COMPLIANCE ALTERNATIVE
+79.
+A79
+8.2.1.4.
+Existing clearances acceptable where a sewage       system is replaced with another sewage system within the same class and the capacity of the replacement   sewage system does not exceed the capacity of the existing sewage system.
+80.
+A80
+8.2.1.4.
+Existing clearances are acceptable where a replacement sewage system requires lesser clearances than those required in Part 8 for the   existing sewage system.
+
+
+
+
+
+Table 11.5.1.1.B.
+Compliance Alternatives for Care or Detention Occupancies
+Forming Part of Article 11.5.1.1.
+
+
+
+
+NUMBER
+
+PART 8
+REQUIREMENTS
+
+PART 11 COMPLIANCE ALTERNATIVE
+80.
+
+B80
+
+8.2.1.4.
+
+Existing clearances acceptable where a sewage system is replaced with another sewage system within the same class and the capacity of the replacement sewage system does not exceed the capacity of the existing sewage system.
+81.
+
+B81
+
+8.2.1.4.
+
+Existing clearances are acceptable where a replacement sewage system requires lesser clearances than those required in Part 8 for the existing sewage system.
+
+
+
+
+
+
+
+
+
+
+Table 11.5.1.1.C.
+Compliance Alternatives for Residential Occupancies
+Forming Part of Article 11.5.1.1.
+
+
+
+NUMBER
+PART 8 REQUIREMENTS
+PART 11 COMPLIANCE ALTERNATIVE
+99.
+C99
+8.2.1.4.
+Existing clearances acceptable where a sewage system is replaced with another sewage system within the same class and the capacity of the replacement sewage system does not exceed the capacity of the existing sewage system.
+100.
+C100
+8.2.1.4.
+Existing clearances are acceptable where a replacement sewage system requires lesser clearances than those required in Part 8 for the existing sewage system.
+
+
+
+
+Table 11.5.1.1.D/E.
+Compliance Alternatives for Business/Mercantile Occupancies
+Forming Part of Article 11.5.1.1.
+
+
+NUMBER
+PART 8 REQUIREMENTS
+PART 11 COMPLIANCE ALTERNATIVE
+
+86.
+
+DE86
+
+8.2.1.4.
+Existing clearances acceptable where a sewage system is replaced with another sewage system within the same class and the capacity of the replacement sewage system does not exceed the capacity of the existing sewage system.
+
+87.
+
+DE87
+
+8.2.1.4.
+
+Existing clearances are acceptable where a replacement sewage system requires lesser clearances than those required in Part 8 for the existing sewage system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 11.5.1.1.F.
+Compliance Alternatives for Industrial Occupancies
+Forming Part of Article 11.5.1.1.
+
+
+
+
+NUMBER
+PART 8 REQUIREMENTS
+PART 11 COMPLIANCE ALTERNATIVE
+
+87.
+
+F87
+
+8.2.1.4.
+Existing clearances acceptable where a sewage system is replaced with another sewage system within the same class and the capacity of the replacement sewage system does not exceed the capacity of the existing sewage system.
+
+88.
+
+F88
+
+8.2.1.4.
+Existing clearances are acceptable where a replacement sewage system requires lesser clearances than those required in Part 8 for the existing sewage system.
+
+
+
+
+
+
+ 
+ 

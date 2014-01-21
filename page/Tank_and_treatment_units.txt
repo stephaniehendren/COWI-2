@@ -1,0 +1,55 @@
+[SECTION] Tanks & Treatment Units
+
+
+[HEADER] Septic Tanks
+Septic tanks shall have a minimum working capacity of 3600 L or at least twice daily sanitary sewage flow for residences and three times daily sanitary flow for non-residential flow and: 
+.	Be constructed with two compartments
+.	First compartment 1.3 X daily sewage flow and at least 2400L
+.	Second compartment at least 50% of the first compartment
+.	Two tanks may be used in sequence with specification listed above
+.	Partitions separating the septic tank into compartments shall extend at least 150 mm above the liquid level at the outlet, and there shall be one or more openings through or above the partition.
+.	Tanks shall be at least 1000mm deep unless excavation is in rock then at least 900mm in depth
+.	Tanks shall not be buried more than 300mm unless access risers are used
+.	Tanks should not be buried at a greater depth than they are rated for by the manufacturer
+.	An effluent filter shall be installed in the outlet flow path of every septic tank that conforms to the requirements of NSF/ANSI 46 and has a minimum area of 550 cm2
+
+8.2.2.2. Tanks
+(1)  Subject to Sentence (3), a tank that is used as a treatment unit in a Class 4 sewage `system or a holding tank in a Class 5 sewage system shall conform to the requirements of CSA B66, “Design, Material, and Manufacturing Requirements for Prefabricated Septic Tanks and Sewage Holding Tanks”.
+
+
+[HEADER] Treatment Units
+Treatment units must meet the standards in the following table: 
+
+"[OtherTreatmentUnits]"
+
+
+Treatment units must be listed in MMAH Supplemental Standard SB 5 or; have been certified to CAN/BNQ 3680-600, “Onsite Residential Wastewater Treatment Technologies”
+
+
+Treatment units must:
+.	Have a sampling port
+.	Have an audible and visual warning alarm so located to warn the occupants of the building served or the operator of the treatment unit of a malfunction 
+
+Treatment units may be used in conjunction with:
+.	Leaching Beds: Class Level II,III,IV for a reduction of distribution pipe of one third ( L=QT/300)
+.	Filter Beds; Class Level II,III,IV where effluent loading rate does not exceed 100L/m2 per day
+.	Shallow Buried trench; Class Level IV only
+.	Type A Dispersal Bed; Class Level IV only
+.	Type B Dispersal Bed; Class Level IV only
+
+
+8.6.2.2. Other Treatment Units
+(1)  Except as provided in Sentence (2), a treatment unit, other than a septic tank, shall be designed such that the effluent does not exceed, for the level of the treatment unit set out in Column 1 of Table 8.6.2.2., the maximum concentrations set out opposite it in Columns 2 and 3 of Table 8.6.2.2.
+
+[HEADER] Pump and Siphons
+.	Pumps and siphons shall be used where there is 150 m or more of distribution pipe 
+.	Where two pumps are used in a system they must be set to work alternatively and if one stapes working the other will continue to dose.
+.	Dosing from a pump of siphon must doe at least 75% of the internal volume of the distribution pipe served within the 15 minute time frame. 
+
+Pumps are required for pressurized dosing of Shallow buried trench; Type a dispersal beds, and Type B dispersal bed distribution systems. The pump must be set to provide dosing every hour. The chamber in which the pump is located should be sized to contain one day daily design sewage flow. 
+
+8.6.1.3. Pumps and Siphons
+(1)  Where the total length of distribution pipe required is 150 m or more, the sewage system shall have at least one pump or a siphon contained in a dosing tank that may be a separate compartment within the tank structure, for distribution of the effluent.
+(2)  Alternating siphons shall not be installed in a sewage system.
+(3)  Where 2 or more pumps are employed within a dosing tank, the pumps shall be designed such that the pumps alternate dosing, and dosing shall continue in the event that one pump fails.
+(4)  Where a pump or siphon is required, the pump or siphon shall be designed to discharge a dose of at least 75% of the internal volume of the distribution pipe within a time period not exceeding fifteen minutes.

@@ -1,0 +1,265 @@
+[SECTION] Distribution
+
+
+[HEADER] Leaching Beds
+This section containers the general requirements for all distribution types including leaching beds, fill based absorption trenches, filter beds, shallow buried trench, type A and B dispersal beds.
+
+.	Leaching beds shall not be located on an average slope greater that 4:1 and no part of the leaching bed shall have a slope greater than 4:1.
+.	Leaching beds shall not be located on soil with a percolation rate less than 1 cm/per minute or greater than 50 cm/per minute unless the distribution system is a Shallow Buried Trench in which case soil percolation rate may be as high as 125 cm/per minute
+.	A leaching bed shall not be covered with any material having a hydraulic conductivity less than 0.01 m/day or impervious material (clay, silty clay, sandy clay)
+.	A leaching bed shall be protected from compaction that may impair the distribution pipe or the use of the system
+.	Distribution pipe and headers shall be detectable from the ground surface using tracer wire or magnetic sensors. 
+
+Distribution pipe length
+.	Leaching bed pipe shall be at least 40 meters linear unless in a Shallow Buried trench where it must be at least 30 meters linear
+.	The length of pipe in a leaching bed is calculated as QT/200
+.	The length of pipe in a leaching bed using a treatment unit is QT/300
+
+Table 8.7.3.1  Length of Shallow Buried Trench Forming Part of Sentence 8.7.3.1.(4)
+"[CalculationforleachingbedusingShallowBuriedtrench]"
+
+
+[HEADER] Absorption Trench Construction
+.	Trenches must be approximately the same length and not more than 30 meters for each trench
+.	At least 500mm wide and not more than 1000mm wide
+.	At least 600mm deep and not more than 900 mm deep
+.	Trenches shall be separated by 1600mm (1.6 meter)
+.	There must be at least 900mm between the bottom of the trench and high groundwater table, bedrock, or soil with a percolation rate of greater than 50mm per minute
+
+Distribution Pipe:
+.	Except for system requiring pressure distribution pipe shall be 3 inch trade 	size or greater
+.	Sloped down grade 30-50 mm for each 10 meter section
+.	Washed stone layers under the pipe shall meet table 8.7.3.3 and extend 	150mm below and 50mm above the pipe
+.	Covered with untreated building paper of geotextile
+
+
+"[Table8.7.3.3]"
+
+
+Pressure pipe:
+The pressure pipe shall be at least 1 inch trade size and be installed so that it is self-draining between doses to prevent freezing. 
+
+8.7.4. Fill Based Absorption Trenches
+.	Hydraulic loading rates for leaching bed fill shall not exceed those outlined in table 
+8.7.4.1 for the area of the leaching bed.
+
+"[Table8.7.4.1]"
+
+
+
+.	The fill shall be at lease 250mm deep over the area of the leaching bed and must extend at least 15 meters in the direction of flow away from the leaching bed. 
+.	If leaching bed fill or natural soil under the pipe has a percolation time of greater than 15 minutes and addition fill used must be less than 75% or the percolation rate of the soil or fill unless
+.	There is at lease 900mm under the trench to the limiting layer or the least permeable layer of soil or fill is used to calculate the trench length
+.	Leaching bed fill shall be protected from erosion and stabilised with at least a 3:1 slope 4:1 is preferable
+.	Clearance distances from the system shall be increased by twice the height the system is raised above natural grade.  
+
+
+[HEADER] Filter Beds
+8.7.5. Filter Beds
+Limitations
+.	Filter beds used with septic tank effluent may receive a maximum daily flow rate of 5000L and must be a maximum size no greater than 50 m2
+.	Filter beds used with treatment unit effluent Level II, Level III or Level IV may receive a maximum daily flow rate of  10,000L
+
+Effluent Hydraulic Loading
+.	The total base area of the absorption bed (soil contact) shall be calculated using Table 8.7.4.1
+.	The total area of the filter bed shall be a maximum of 50 m2  and minimum of 10m2
+.	For flow of less than 3000L per day the loading surface of the filter may receive up to 75 L/m2 per day.
+.	For flow exceeding 3000L per day the loading surface of the filter may receive up to 50 L/m2 per day.
+.	Filter beds used in conjunction with Level II, Level III or Level IV treatment units filter may receive up to 100 L/m2 per day
+
+
+Construction
+.	Clean sand effective size: 0.25 mm m - uniformity coefficient not less than 3.5
+.	Effective size 2.5 mm  - uniformity coefficient not greater than 1.5
+.	Uniformity coefficient not greater than 4.5
+.	The filter shall have a minimum depth of 750 
+.	Be unsaturated for its entire depth
+.	When multiple filters are used the each filter shall be separated by 5 meters between the distribution pipes of the beds
+.	The base of the filter shall extend to a minimum depth of 250mm
+.	Area requirements – A = QT/850
+
+
+[HEADER] Shallow Buried trench
+8.7.6. Shallow Buried Trench
+.	Must be used in conjunction with Level IV treatment units or better.
+.	Shallow buried trench distribution shall use a chamber containing a pressure distribution pipe
+.	Residual pressure head at the orifice shall be at least 600mm
+.	Distribution shall be time dosed on an hourly bases over a 24 hour period
+.	Pump chambers shall have a working volume of one day daily design flow. 
+.	Shallow buried trench systems must meet the requirements of section 8.7.1. respecting distribution. 
+
+
+[HEADER] Type A Dispersal Beds
+8.7.7. Type A Dispersal Beds
+.	Must be used in conjunction with Level IV treatment units or better.
+.	The combined thickness of the sand layer and stone layer in the dispersal bed shall be at least 500mm
+.	The stone layer is used as the infiltrative surface (similar to the bottom of the trench)
+
+8.7.7.1. Construction Requirements – Type A Bed
+
+(1)  	The treatment unit used in conjunction with a leaching bed constructed as a 
+	Type A dispersal bed shall provide an effluent quality that does not exceed the 	maximum concentrations set out opposite a Level IV treatment unit in Columns 2 	and 3 of Table 8.6.2.2.
+
+(2)  	A Type A dispersal bed shall be backfilled with leaching bed fill so as to ensure 	that, after the leaching bed fill settles, the surface of the leaching bed will not 	form any depressions.
+	
+(3)  	The combined thickness of the sand layer and the stone layer of a Type A 	dispersal bed shall not be less than 500 mm.
+	
+(4) 	 Except as provided in Sentence (5), the sand layer shall,
+(a)	be comprised of sand that has,
+(i)	a percolation time of at least 6 and not more than 10 min, and
+(ii)	not more than 5% fines passing through a 0.074 mm (No. 200) sieve,
+(b)	have a minimum thickness of 300 mm, and
+(c)	have an area that is not less than the lesser of,
+(i)	the area of the stone layer determined in accordance with Sentence (6), and
+(ii)	the value determined by the formula, A = QT/850
+
+
+
+ 	where,
+	A =	the area of contact in square metres between the base of the sand and 			the underlying soil,
+	Q =	the total daily design sanitary sewage flow in litres, and
+	T =	the lesser of 50 and the percolation time of the underlying soil.
+	
+(5)  	Where the underlying soil has a percolation time of more than 15 min, the sand 	layer referred to in Sentence (4) shall,
+	(a) extend to at least 15 m beyond the perimeter of the treatment unit, or 	distribution pipes if utilized, in any direction that the effluent entering the 	soil 	will move horizontally, and
+	(b) have an area that is not less than the value determined by the formula, 
+		A = QT/400
+
+	where,
+	A =	the area of contact in square metres between the base of the sand and 			the underlying soil, or leaching bed fill if utilized,
+	Q =	the total daily design sanitary sewage flow in litres, and
+	T =	the lesser of 50 and the percolation time of the underlying soil.
+	
+(6)  	The stone layer shall,
+(a)	be rectangular in shape with the long dimension parallel to the site contours,
+(b)	have a minimum thickness of 200 mm,
+(c)	be protected in the manner described in Sentence 8.7.3.3.(2), and
+(d)	be constructed such that the bottom of the stone layer is at least 600 mm above 	the high ground water table, rock or soil with a percolation time of 1 min or 	less or greater than 50 min.
+(e)	have a minimum area not less than the value determined by the formula, 
+	A = Q/B
+
+	where,
+	A =	the area of the stone layer in square metres,
+	B =	the following amount,
+	(i)	50, if the total daily design sanitary sewage flow exceeds 3 000 litres, or
+	(ii)	75, if the total daily design sanitary sewage flow does not exceed 3 000 			litres, and
+	Q =	the total daily design sanitary sewage flow in litres.
+	
+(7)  	Leaching bed fill with a percolation time not exceeding 15 min may be used to 	satisfy the vertical separation requirements of Clause (6)(d), provided that the 	leaching bed fill conforms to the requirements specified in Sentence (5) regardless of the percolation time of the underlying soil.
+	
+(8)  	The effluent shall be evenly distributed within the stone layer to within 600 mm of	 	the perimeter of the stone layer.
+	
+(9)  	The stone layer shall not be located closer than the minimum horizontal 	distances set out in Table 8.2.1.6.B. and these distances shall be increased when required by Sentence 8.7.4.2.(11).
+
+
+
+
+"[TypeABedSitePlan]"
+
+
+
+
+
+"[TypeABedCalculations]"
+
+
+
+
+
+
+
+
+
+[HEADER]  Type B Dispersal Beds
+8.7.8. Type B Dispersal Beds
+.	Type B beds shall conform to the requirement of section 8.7.2.1 
+.	Shall not be constructed on sloped greater than 7:1
+.	Must be used in conjunction with Level IV treatment units or better.
+
+Construction:
+.	Constructed in native soil, be rectangular in shape and constructed longitudinally along the contour of the sit
+.	The bed shall not be deeper than 1000mm from the bottom of the stone layer to the surface grade when placed in soils with a percolation rate greater than 15 minutes. 
+.	The base of the stone layer will be greater than 600mm above the groundwater table, bedrock or soil with percolation rate greater than 50 minutes. 
+
+8.7.8.2. Construction Requirements – Type B Bed
+(1)  	The treatment unit used in conjunction with a leaching bed constructed as a Type B 	dispersal bed shall provide an effluent quality that does not exceed the maximum 	concentrations set out opposite a Level IV treatment unit in Columns 2 and 3 of Table 	8.6.2.2.
+	
+(2)  	A Type B dispersal bed shall be,
+(a)	rectangular in shape with the long dimension parallel to the site contours,
+(b)	not more than 1 000 mm in depth measured from the bottom of the stone layer to 	the finished grade when installed in soil with a percolation time that exceeds 15 min, 	and
+(c)	backfilled with leaching bed fill so as to ensure that, after the leaching bed fill settles, 	the surface of the leaching bed will not form any depressions.
+
+(3)  	The bottom of the stone layer shall be at least 600 mm above the high ground water 	table, rock or soil with a percolation time greater than 50 min.
+
+(4)  	The effluent shall be distributed over the Type B dispersal bed through a pressurized 	distribution system having a pressure head of not less than 600 mm when 	measured to the most distant point from the pump.
+	
+(5)  	The distribution pipes shall,
+(a)	be self-draining so as to prevent freezing of their contents, and
+(b)	have orifices of at least 3 mm in diameter, spaced equally along the length of the 	pipes.
+	
+(6)  	The stone layer containing the distribution pipes shall,
+(a)	be comprised of washed septic stone, free of fine material, with gradation 	conforming to 	Table 8.7.3.3.,
+
+
+Stone layer
+.	The stone layer shall be washed and free of fines and meet the requirements of table 8.7.3.3.
+
+
+"[Table8.7.3.3]"
+
+
+
+(b)	extend not less than 250 mm below the distribution pipe, and
+(c)	extend not less than 50 mm above the distribution pipe.
+
+(7)  	The distribution pipes shall be spaced not more than 1.2 m apart with the 	outermost pipe spaced not more than 600 mm from the edge of the bed.
+	
+(8)  	The pump chamber shall be sized to provide sufficient storage volume so that the 	effluent is evenly dosed on an hourly basis over a 24-hour period.
+	
+(9)  	When there is more than one Type B dispersal bed in a leaching bed, the Type B 	dispersal beds shall be separated by at least 5 m measured from the edge of the 	stone 	layers.
+	
+(10)  	A Type B dispersal bed shall not be located closer than the minimum horizontal 	distances set out in Table 8.2.1.6.B. and these distances shall be increased 	when 	required by Sentence 8.7.4.2.(11).
+
+
+8.7.8.3. Design Requirements
+(1)  	The area of a Type B dispersal bed shall not be less than the minimum area 	determined in accordance with Clause (2)(a) or (b).
+	
+(2)  	For the purposes of Sentence (1), the minimum area is either of the following,
+	(a) the area calculated based on the loading rates for Type 2 effluent set out 	in the Column headed “Type 2” found in Table 2-8 of the BCMOH, “Sewerage System Standard Practice Manual”, or
+(b)	the value determined by the formula, A = QT/400
+
+ 	where,
+	A =	the area of contact in square metres between the stone layer and the 			underlying soil,
+	Q =	the total daily design sanitary sewage flow in litres, and
+	T =	the percolation time of the underlying soil.
+
+(3)  	The linear loading rates of the underlying soil shall not be greater than,
+(a)	the linear loading rates set out in Table 2-11 of BCMOH, “Sewerage System 	Standard Practice Manual”, where the area of the Type B dispersal bed is 	determined in accordance with Clause (2)(a), or
+(b)	the following linear loading rate, where the area of the Type B dispersal bed is 		determined in accordance with Clause (2)(b),
+	(i)	40 L/m, for soil having a percolation time equal to or greater than 24 min, 			or
+	(ii)	50 L/m, for soil having a percolation time less than 24 min.
+	
+(4) 	 The width of a Type B dispersal bed shall not exceed 4 m.
+
+Dispersal Bed Area
+.	Area of  the dispersal bed shall be calculated using Table 2-8 of BC Ministry of Health Sewerage System Standard Practice Manual version 2 for Type 2 effluent OR A=QT/400
+.	Linear loading rate shall be calculated using Table 2-11 of BC Ministry of Health Sewerage System Standard Practice Manual version 2 OR 40L per linear meter for soil having a percolation rate of 24 minutes or less OR 50L per linear meter for soils having a percolation rate greater than 24 minutes. 
+.	A Type B bed shall not exceed 4 meters in width
+
+"[TypeBBedSitePlan]"
+
+
+
+
+
+Type B dispersal bed is a leaching bed comprised of a pressurized distribution system that uniformly distributes effluent from a Level IV treatment unit as described in Table 8.6.2.2. of OBC Division B to the underlying soil, as defined in Part 8 of OBC Division B, through a set of distribution pipes installed in a bed comprised of septic stone.
+
+
+
+
+"[TypeBBedCalculations]"
+
+
+
+
+
