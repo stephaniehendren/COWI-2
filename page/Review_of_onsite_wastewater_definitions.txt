@@ -1,14 +1,9 @@
-[SECTION] Introduction
+[Sub header] A Review of Onsite Wastewater
+An onsite wastewater treatment system is a method of collecting and treating the wastewater produced by a building or a small group of buildings on the same lot or neighbouring properties. 
+These systems are used in areas that do not have access to municipal sewer systems. The property may or may not be connected to city drinking water, a well, or may obtain water from a lake or river. 
+Some onsite wastewater treatment uses a series of natural and sometimes mechanical processes to treat the wastewater and safely return it into the environment.
 
-[HEADER] Purpose:
+The Ontario Building Code governs onsite systems that service a building or buildings that are contained on the same lot as the onsite system. 
+These systems are design to treat and dispose to a maximum of 10,000 litres per day. 
 
-The OWW – Onsite Wastewater Reference Guide APP is derived from the requirements under the:
-
-Building Code Act, 1992 S.O. 1992, CHAPTER 23
-Ontario Regulation 332/12, Building Code
-
-This reference guide is intended to emphasis the requirements of the Act and Regulation as it applies the design, installation, construction, operation and maintenance of Sewage Systems as defined in the Ontario Building Code (OBC). 
-
-[HEADER] Scope: 
-
-This guideline is intended to assist inspectors, designers and installers in determining the most prominent features of Sewage Systems necessary to meet the requirements of the Ontario Building Code (OBC). The OBC and Building Code Act are the official documents of reference.  Note: Note all information in the OBC Ontario Building Code is contained in this guide, only specific portions that will assist practitioners in the daily reference of the code requirements.
+In Ontario systems designed to handle more than 10,000 litres per day or systems servicing more than one lot are systems governed by the Ministry of Environment under the Ontario Water Resources Act.
