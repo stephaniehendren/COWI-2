@@ -1,14 +1,102 @@
-[SECTION] Introduction
+[SECTION] 8.7.8. Type B Dispersal Beds 
 
-[HEADER] Purpose:
+[HEADER] 8.7.8. Type B Dispersal Beds 
+New requirements for Type B dispersal beds are introduced.
 
-The OWW – Onsite Wastewater Reference Guide APP is derived from the requirements under the:
+[HEADER] OBC Division B 8.7.8.1•
+•	8.7.8.1. – General Requirements 
+•	8.7.8.2. – Construction Requirements 
+•	8.7.8.3. – Design Requirements 
 
-Building Code Act, 1992 S.O. 1992, CHAPTER 23
-Ontario Regulation 332/12, Building Code
+[Sub header] 8.7.8.1. General Requirements
+(1)  	Except as provided in Sentence (2) and 	Sentence 8.7.8.2.(2), a Type B dispersal bed shall conform to the requirements of Article 8.7.2.1.
+(2)  	A Type B dispersal bed shall not be located in an area that has an 	average slope that exceeds one unit vertically to seven units horizontally.
 
-This reference guide is intended to emphasis the requirements of the Act and Regulation as it applies the design, installation, construction, operation and maintenance of Sewage Systems as defined in the Ontario Building Code (OBC). 
+[Sub header] Sentence 8.7.8.1.(2) - Explanatory Note: 
+This section increases slope requirements beyond from 1:4 to 1:7
 
-[HEADER] Scope: 
+[HEADER] 8.7.8.2.  Construction Requirements
+(1)  The treatment unit used in conjunction with a leaching bed constructed as a Type B dispersal bed shall provide an effluent quality that does not exceed the maximum concentrations set out opposite a Level IV treatment unit in Columns 2 and 3 of Table 8.6.2.2.
 
-This guideline is intended to assist inspectors, designers and installers in determining the most prominent features of Sewage Systems necessary to meet the requirements of the Ontario Building Code (OBC). The OBC and Building Code Act are the official documents of reference.  Note: Note all information in the OBC Ontario Building Code is contained in this guide, only specific portions that will assist practitioners in the daily reference of the code requirements.
+[Sub header] Sentence 8.7.8.2.(1)  - Explanatory Note:
+This section ensures high quality effluent enters the dispersal bed preventing premature failure due to over development of biomat.
+
+(2)  A Type B dispersal bed shall be
+	(a) rectangular in shape with the long dimension parallel to the site contours
+	(b) not more than 1 000 mm in depth measured from the bottom of the stone layer to the finished grade when installed in soil with a percolation time that exceeds 15 min
+	(c)	backfilled with leaching bed fill so as to ensure that, after the leaching bed fill settles, the surface of the leaching bed will not form any depressions
+
+[Sub header] Sentence 8.7.8.2.(2)  - Explanatory Note: 
+The purpose of the section it to ensure construction of the dispersal bed longitudinal to provide for linear loading of the effluent and to ensure the bed is sufficiently shallow to allow for oxygen infiltration. 
+
+(3)  The bottom of the stone layer shall be at least 600 mm above the high ground water table, rock or soil with a percolation time greater than 50 min.
+(4)  The effluent shall be distributed over the Type B dispersal bed through a pressurized distribution system having a pressure head of not less than 600 mm when measured to the most distant point from the pump.
+
+[Sub header] Sentence 8.7.8.2.(4) - Explanatory Note:
+Pressure distribution provides even distribution across the bed to facilitate proper hydraulic loading of the soil. Pressure head measurement provides evidence of malfunction within the distribution system. A head measurement in excess or less than of 600 mm may indicate plugged holes or a broken lateral.
+
+(5)  The distribution pipes shall,
+	(a)	be self-draining so as to prevent freezing of their contents
+	(b)	have orifices of at least 3 mm in diameter, spaced equally along the length of the pipes
+
+(6)  The stone layer containing the distribution pipes shall,
+	(a)	be comprised of washed septic stone, free of fine material, with gradation 	conforming to Table 8.7.3.3.,
+	(b)	extend not less than 250 mm below the distribution pipe
+	(c)	extend not less than 50 mm above the distribution pipe
+
+[Sub header] Sentence 8.7.8.2.(6) - Explanatory Note:
+The section provides for proper gradation and depth of the stone layer to ensure even and consistent effluent distribution. 
+
+(7)  The distribution pipes shall be spaced not more than 1.2 m apart with the outermost pipe spaced not more than 600 mm from the edge of the bed. 
+
+[Sub header] Sentence 8.7.8.2.(7)  - Explanatory Note:
+Close spacing of the distribution pipe will provide for more even effluent distribution across the entire dispersal bed. 
+
+(8)  The pump chamber shall be sized to provide sufficient storage volume so that the effluent is evenly dosed on an hourly basis over a 24-hour period.
+
+[Sub header] Sentence 8.7.8.2.(8) - Explanatory Note:
+Time dosing of effluent requires sufficient storage within the pump chamber. This can usually be achieved using a pump chamber volume equal to of one day daily design sanitary sewage flow (“Q”).
+
+(9)  When there is more than one Type B dispersal bed in a leaching bed, the Type B dispersal beds shall be separated by at least 5 m measured from the edge of the stone layers.
+
+[Sub header] Sentence 8.7.8.2.(9) - Explanatory Note:
+This section is provides for proper spacing of multiple units and is intended to prevent groundwater mounding or hydraulic interference between dispersal beds. 
+
+(10)  A Type B dispersal bed shall not be located closer than the minimum horizontal distances set out in Table 8.2.1.6.B. and these distances shall be increased when required by Sentence 8.7.4.2.(11).
+
+[Sub header] 8.7.8.3. Design Requirements
+
+(1)  The area of a Type B dispersal bed shall not be less than the minimum area determined in accordance with Clause (2)(a) or (b).
+(2)  For the purposes of Sentence (1), the minimum area is either of the following,
+	(a)	the area calculated based on the loading rates for Type 2 effluent set out in 	the Column headed “Type 2” found in Table 2-8 of the BCMOH, “Sewerage 	System Standard Practice Manual”, or
+	(b)	the value determined by the formula,
+				 
+Where:
+A =	the area of contact in square metres between the stone layer and the underlying soil
+Q =	the total daily design sanitary sewage flow in litres
+T =	the percolation time of the underlying soil
+
+(3)  The linear loading rates of the underlying soil shall not be greater than
+	(a)	the linear loading rates set out in Table 2-11 of BCMOH, “Sewerage 	System Standard Practice Manual”, where the area of the Type B dispersal bed is determined in accordance with Clause (2)(a)
+	(b)	the following linear loading rate, where the area of the Type B dispersal bed is determined in accordance with Clause (2)(b)
+		(i)		40 L/m, for soil having a percolation time equal to or greater than 24 min
+		(ii)	50 L/m, for soil having a percolation time less than 24 min
+
+(4)  The width of a Type B dispersal bed shall not exceed 4 m
+
+[Sub header] TYPE B Bed Site Plan
+
+[NC image 9 Type B]
+
+[NC image 10 Type B]
+
+[Sub header] Table 2-8 BCMOH “Sewerage System Standard Practice Manual” as referenced in 8.7.8.3.(2)(a)
+
+[NC image 11 Table 2-8]
+
+[Sub header] Table 2-11 of BCMOH, “Sewerage System Standard Practice Manual” as referenced in 8.7.8.3.(3)(a)
+
+[NC image 12 Table 2-11]
+
+[HEADER]  8.9.2.4. Sampling of Treatment Units
+Sampling requirements are now amended to include dispersal beds both Type A and B.

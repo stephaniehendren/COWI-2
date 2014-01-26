@@ -1,14 +1,36 @@
-[SECTION] Introduction
+[SECTION] OBC - Division B - 8.2.1.2(2)
 
-[HEADER] Purpose:
+[HEADER] OBC - Division B - 8.2.1.2(2) ▲ 	 
 
-The OWW – Onsite Wastewater Reference Guide APP is derived from the requirements under the:
+This is revised to include the use of the soil texture classifications as an acceptable method in determining the soil percolation time.
 
-Building Code Act, 1992 S.O. 1992, CHAPTER 23
-Ontario Regulation 332/12, Building Code
+The most important aspect of any onsite wastewater system is the condition of the receiving soil for the effluent. Proper evaluation of the soil will ensure a proper design and installation of any septic system.   
 
-This reference guide is intended to emphasis the requirements of the Act and Regulation as it applies the design, installation, construction, operation and maintenance of Sewage Systems as defined in the Ontario Building Code (OBC). 
+[Sub header] 8.2.1.2. Site Evaluation	
+(1)	A site evaluation shall be conducted on every site where a new or replacement sewage system is to be installed.
+(2)	The percolation time shall be determined by
+(a)	conducting percolation tests
+(b)	classifying the soil according to one of the following methods;
 
-[HEADER] Scope: 
+	(i)		the Unified Soil Classification System as described in MMAH Supplementary Standard SB-6, “Percolation Time and Soil Descriptions”
+	(ii)	the Soil Texture Classification as described in Chapter 3 of USDA, “Soil Survey Manual”.
 
-This guideline is intended to assist inspectors, designers and installers in determining the most prominent features of Sewage Systems necessary to meet the requirements of the Ontario Building Code (OBC). The OBC and Building Code Act are the official documents of reference.  Note: Note all information in the OBC Ontario Building Code is contained in this guide, only specific portions that will assist practitioners in the daily reference of the code requirements.
+[Sub header] Sentence 8.2.1.2.(2) - Explanatory Note:
+The change is provided to improve soil analysis and provide for various methods of determining soil characteristics.
+
+[Sub header] USDA - Soil Survey Manual
+A description of the soils is essential in any soil survey. Chapter 3 of the USDA SSM provides standards and guidelines for describing most soil properties and for describing the necessary related facts. For some soils, standard terms are not adequate and must be supplemented by a narrative. The length of time that cracks remain open, the patterns of soil temperature and moisture, and the variations in size, shape, and hardness of clods in the surface layer must be observed over time and summarized.
+
+[Sub header] Site Evaluation 
+(ii)the Soil Texture Classification as described in Chapter 3 of USDA, “Soil Survey Manual”.
+
+[NC Image 4 soils graph]
+
+[Sub header] Effluent Filters
+
+Effluent filter requirements have been revised to specify the maximum size of particles permitted to pass through the effluent filter and prescribe the minimum area of the filter. 
+Many precasters now provide effluent filters in their septic tanks.
+
+Installers and designers should ensure the effluent filters that are installed meet the new requirements, and conform to the requirements of NSF/ANSI 46. 
+  
+[NC Image 5 filters]

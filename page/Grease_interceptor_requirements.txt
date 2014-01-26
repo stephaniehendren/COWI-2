@@ -1,14 +1,15 @@
-[SECTION] Introduction
+[SECTION] OBC - Division B - 8.1.3.1. (8)
 
-[HEADER] Purpose:
+[Sub header] 8.1.3.1.(8) The interceptor required in Sentence (4) shall, have
+ 
+(a)	minimum flow rate as required by Sentence 7.4.4.3.(8) using a 60 second 	drain 	down time, and
+(b)	conform to,
+(i)	CAN/CSA-B481.1, “Testing and Rating of Grease Interceptors Using Lard”, 	or
+(ii)	CAN/CSA-B481.2, “Testing and Rating of Grease Interceptors Using Oil”.
+ 
+Grease interceptors are tested and rated in accordance with CSA B481.1 or CSA B481.2. 
+CSA B481.1 is a pass/fail Standard that requires a minimum capacity and 90% grease-removal efficiency. 
+CSA B481.2 is a rating Standard that provides methods for calculating a FOG effluent concentration, expressed in milligrams per litre, and removal efficiency rating, expressed as a percentage.
 
-The OWW – Onsite Wastewater Reference Guide APP is derived from the requirements under the:
-
-Building Code Act, 1992 S.O. 1992, CHAPTER 23
-Ontario Regulation 332/12, Building Code
-
-This reference guide is intended to emphasis the requirements of the Act and Regulation as it applies the design, installation, construction, operation and maintenance of Sewage Systems as defined in the Ontario Building Code (OBC). 
-
-[HEADER] Scope: 
-
-This guideline is intended to assist inspectors, designers and installers in determining the most prominent features of Sewage Systems necessary to meet the requirements of the Ontario Building Code (OBC). The OBC and Building Code Act are the official documents of reference.  Note: Note all information in the OBC Ontario Building Code is contained in this guide, only specific portions that will assist practitioners in the daily reference of the code requirements.
+[Sub header] Sentence 8.1.3.1.(8) - Explanatory Note:
+This section provides for standardized testing of grease interceptors to ensure performance and minimum retention time of liquid to facilitate separation of FOG. 

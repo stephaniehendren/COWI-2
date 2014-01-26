@@ -1,0 +1,14 @@
+[SECTION] New Ontario Building Code Part 8 Changes
+
+[Sub header] OBC - 8.1.2.1. Classification of Systems
+
+(1)	All sewage systems shall be classed as one of the following:
+(a)	Class 1 — a chemical toilet, an incinerating toilet, a recirculating toilet, a self-contained portable toilet and all forms of privy including a portable privy, an earth pit privy, a pail privy, a privy vault and a composting toilet system
+(b)	Class 2 — a greywater system
+(c)	Class 3 — a cesspool
+(d)	Class 4 — a leaching bed system
+(e)	Class 5 — a system that requires or uses a holding tank for the retention of hauled sewage at the site where it is produced prior to its collection by a hauled sewage system
+
+[Sub header] New OBC Code Changes
+
+[NC Image 2 OBC code change]

@@ -1,14 +1,11 @@
-[SECTION] Introduction
+[SECTION] OBC Division B 8.7.4.2.(1)
 
-[HEADER] Purpose:
+[HEADER] OBC Division B 8.7.4.2.(1)
 
-The OWW – Onsite Wastewater Reference Guide APP is derived from the requirements under the:
+[Sub Header] 8.7.4.2. Construction Requirements
+(1)  Except for a shallow buried trench, a leaching bed comprised of absorption trenches may be constructed in leaching bed fill, if unsaturated soil or leaching bed fill complying with Subclause 8.7.2.1.(1)(b)(ii) extends,
+	(a) 	to a depth of at least 250 mm over the area covered by the leaching bed fill
+	(b) 	for at least 15 m beyond the outer distribution pipes in any direction in which the effluent entering the soil or leaching bed fill will move horizontally
 
-Building Code Act, 1992 S.O. 1992, CHAPTER 23
-Ontario Regulation 332/12, Building Code
-
-This reference guide is intended to emphasis the requirements of the Act and Regulation as it applies the design, installation, construction, operation and maintenance of Sewage Systems as defined in the Ontario Building Code (OBC). 
-
-[HEADER] Scope: 
-
-This guideline is intended to assist inspectors, designers and installers in determining the most prominent features of Sewage Systems necessary to meet the requirements of the Ontario Building Code (OBC). The OBC and Building Code Act are the official documents of reference.  Note: Note all information in the OBC Ontario Building Code is contained in this guide, only specific portions that will assist practitioners in the daily reference of the code requirements.
+[Sub Header] Sentence 8.7.4.2. (1) - Explanatory Note:
+The change to this section is to ensure soil mantel is used for all raised leaching beds to provide protection from system breakout.

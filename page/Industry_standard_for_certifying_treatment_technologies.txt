@@ -1,14 +1,9 @@
-[SECTION] Introduction
+[SECTION] OBC Division B 8.6.2.2.(5)
 
-[HEADER] Purpose:
+[HEADER] OBC Division B 8.6.2.2.(5)
 
-The OWW – Onsite Wastewater Reference Guide APP is derived from the requirements under the:
+This change references a new national industry standard (CAN-BNQ 3680-600) for certifying residential wastewater treatment technologies. Manufacturers will have until 2016 to meet the new standard. In the past treatment technologies have been required to have NSF Approval or an OBC – SB-5 approval to be installed in the province. The purpose of this change is to improve certification protocols and to use Canadian Standards.
 
-Building Code Act, 1992 S.O. 1992, CHAPTER 23
-Ontario Regulation 332/12, Building Code
-
-This reference guide is intended to emphasis the requirements of the Act and Regulation as it applies the design, installation, construction, operation and maintenance of Sewage Systems as defined in the Ontario Building Code (OBC). 
-
-[HEADER] Scope: 
-
-This guideline is intended to assist inspectors, designers and installers in determining the most prominent features of Sewage Systems necessary to meet the requirements of the Ontario Building Code (OBC). The OBC and Building Code Act are the official documents of reference.  Note: Note all information in the OBC Ontario Building Code is contained in this guide, only specific portions that will assist practitioners in the daily reference of the code requirements.
+[Sub header] 8.6.2.2.(5)  A treatment unit is deemed to comply with Sentences (1) and (2) if it
+(a)	is described in MMAH Supplementary Standard SB-5, “Approved Sewage Treatment Units”
+(b)	has been certified to CAN/BNQ  3680 - 600, “Onsite Residential Wastewater Treatment Technologies” using a temperature condition listed under option a) or b) of Clause 8.2.2. of that standard

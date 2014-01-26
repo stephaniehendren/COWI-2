@@ -1,14 +1,27 @@
-[SECTION] Introduction
+[SECTION] OBC Division B - 8.6.2.2. (1)
 
-[HEADER] Purpose:
+[HEADER] OBC Division B - 8.6.2.2. (1)
 
-The OWW – Onsite Wastewater Reference Guide APP is derived from the requirements under the:
+[Sub header] Tertiary Treatment Units: 
+The section has been amended to re-classify the effluent from treatment units into a three-level system.
 
-Building Code Act, 1992 S.O. 1992, CHAPTER 23
-Ontario Regulation 332/12, Building Code
+•	Level II – 30 mg/l suspended solids and 25 mg/l CBOD
 
-This reference guide is intended to emphasis the requirements of the Act and Regulation as it applies the design, installation, construction, operation and maintenance of Sewage Systems as defined in the Ontario Building Code (OBC). 
+•	Level III – 15 mg/l suspended solids and 15 mg/l CBOD
 
-[HEADER] Scope: 
+•	Level IV – 10 mg/l suspended solids and 10 mg/l CBOD 
 
-This guideline is intended to assist inspectors, designers and installers in determining the most prominent features of Sewage Systems necessary to meet the requirements of the Ontario Building Code (OBC). The OBC and Building Code Act are the official documents of reference.  Note: Note all information in the OBC Ontario Building Code is contained in this guide, only specific portions that will assist practitioners in the daily reference of the code requirements.
+[Sub header] 8.6.2.2.(1)  Except as provided in Sentence (2), a treatment unit, other than a septic tank, shall be designed such that the effluent does not exceed, for the level of the treatment unit set out in Column 1 of Table 8.6.2.2., the maximum concentrations set out opposite it in Columns 2 and 3 of Table 8.6.2.2.
+
+[Sub header] Table 8.6.2.2. - Other Treatment Unit Effluent Quality Criteria
+Forming Part of Sentences 8.6.2.2.(1) and (2)
+
+[NC Image 6 – table 8.6.2.2.]
+
+[HEADER] 8.6.2.2. Other Treatment Units is also amended to include Dispersal Bed  A and Dispersal Bed B to the systems that require the use of Level IV treatment units. 
+ 
+[Sub header] Type A Dispersal Bed is a leaching bed that receives effluent from a Level IV treatment unit as described in Table 8.6.2.2. of OBC Division B and that is comprised of a stone layer above an unsaturated sand layer as described in Subsection 8.7.7. of OBC Division B.
+[Sub header] Type B Dispersal Bed is a leaching bed comprised of a pressurized distribution system that uniformly distributes effluent from a Level IV treatment unit as described in Table 8.6.2.2. of OBC Division B to the underlying soil, as defined in Part 8 of OBC Division B, through a set of distribution pipes installed in a bed comprised of septic stone.
+[Sub header] Sentence 8.6.2.2. (1) - Explanatory Note:
+The change is provided to establish a selection of treatment levels for system design and to establish consistent terminology with the CAN/BNQ 3680-600, “Onsite Residential Wastewater Treatment Technologies” testing standard. 
+These changes will allow for more flexibility for system designers.

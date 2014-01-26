@@ -1,14 +1,22 @@
-[SECTION] Introduction
+[SECTION] OBC Division B - 8.6.2.1. (2)
 
-[HEADER] Purpose:
+[HEADER] OBC Division B - 8.6.2.1. (2)
 
-The OWW – Onsite Wastewater Reference Guide APP is derived from the requirements under the:
+[Sub header] 8.6.2.1. Septic Tank Systems
+(1)  	An effluent filter shall be installed in the outlet flow path of every septic tank that discharges effluent to a leaching bed
+(2)  	The septic tank effluent filter required by Sentence (1) shall
+		(a) 	conform to the requirements of NSF/ANSI 46, “Evaluation of Components and Devices Used in Wastewater Treatment Systems”
+		(b)		be sized to filter particles of 1.6 mm
+		(c)		have a minimum area of 550 cm2
+		(d)		be installed in accordance with the manufacturer’s recommendations
+(3) 	 A secured access opening to allow for regular maintenance of the effluent filter shall be provided at the ground surface
 
-Building Code Act, 1992 S.O. 1992, CHAPTER 23
-Ontario Regulation 332/12, Building Code
+[Sub header] Sentence 8.6.2.1. (2) - Explanatory Note:
+The change is provided to limit suspended solids from entering the field from the septic tank, which could lead to premature system failure. The code section provides for the use of only NSF/ANSI 46 evaluated effluent filters.
 
-This reference guide is intended to emphasis the requirements of the Act and Regulation as it applies the design, installation, construction, operation and maintenance of Sewage Systems as defined in the Ontario Building Code (OBC). 
+[Sub header] Tertiary Treatment
+In tertiary treatment there is usually at least one more treatment stage than in secondary treatment. The additional treatment stage is referred to as polishing. Tertiary or tertiary treatment is defined as an aerobic based treatment method that achieves an effluent quality at discharge to the dispersal site of:
 
-[HEADER] Scope: 
+•	BOD5< 15 mg/L
 
-This guideline is intended to assist inspectors, designers and installers in determining the most prominent features of Sewage Systems necessary to meet the requirements of the Ontario Building Code (OBC). The OBC and Building Code Act are the official documents of reference.  Note: Note all information in the OBC Ontario Building Code is contained in this guide, only specific portions that will assist practitioners in the daily reference of the code requirements.
+•	TSS< 10 mg/L

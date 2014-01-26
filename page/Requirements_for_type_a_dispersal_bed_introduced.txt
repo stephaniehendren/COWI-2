@@ -1,14 +1,93 @@
-[SECTION] Introduction
+[SECTION] 8.7.7. Type “A & B” Dispersal Beds
 
-[HEADER] Purpose:
+[HEADER] 8.7.7. Type “A & B” Dispersal Beds
 
-The OWW – Onsite Wastewater Reference Guide APP is derived from the requirements under the:
+This change is setting standards for two different types of onsite sewage dispersal beds to manage effluent from certain residential wastewater treatment technologies
+There are two new types of dispersal beds
+•	one with prescriptive requirements
+•	one with performance requirements
 
-Building Code Act, 1992 S.O. 1992, CHAPTER 23
-Ontario Regulation 332/12, Building Code
+[HEADER] OBC Division B 8.7.7.1.
+Requirements for Type A dispersal beds introduced:
+•	Level IV effluent
+•	Sizing of stone & sand layers
+•	Extension of the sand layer
+•	Effluent distribution
+•	Clearances 
 
-This reference guide is intended to emphasis the requirements of the Act and Regulation as it applies the design, installation, construction, operation and maintenance of Sewage Systems as defined in the Ontario Building Code (OBC). 
+[Sub header] 8.7.7.1. Construction Requirements
+(1)  The treatment unit used in conjunction with a leaching bed constructed as a Type A dispersal bed shall provide an effluent quality that does not exceed the maximum concentrations set out opposite a Level IV treatment unit in Columns 2 and 3 of Table 8.6.2.2.
 
-[HEADER] Scope: 
+[Sub header] Sentence 8.7.7.1. (1) - Explanatory Note:
+This section ensures high quality effluent enters the dispersal bed preventing premature failure due to over development of biomat.
+(2)	A Type A dispersal bed shall be backfilled with leaching bed fill so as to ensure that, after the leaching bed fill settles, the surface of the leaching bed will not form any depressions
+(3)	The combined thickness of the sand layer and the stone layer of a Type A dispersal bed shall not be less than 500 mm
+(4)	Except as provided in Sentence (5), the sand layer shall,
+	(a)	be comprised of sand that has
+		(i)		a percolation time of at least 6 and not more than 10 min
+		(ii)	not more than 5% fines passing through a 0.074 mm (No. 200) sieve,
+	(b)	have a minimum thickness of 300 mm, and
+	(c)	have an area that is not less than the lesser of,
+		(i)		the area of the stone layer determined in accordance with Sentence (6) and,
+		(ii)	the value determined by the formula 
+		
+Where:
+A =	the area of contact in square metres between the base of the sand and the underlying soil
+Q =	the total daily design sanitary sewage flow in litres
+T =	the lesser of 50 and the percolation time of the underlying soil
 
-This guideline is intended to assist inspectors, designers and installers in determining the most prominent features of Sewage Systems necessary to meet the requirements of the Ontario Building Code (OBC). The OBC and Building Code Act are the official documents of reference.  Note: Note all information in the OBC Ontario Building Code is contained in this guide, only specific portions that will assist practitioners in the daily reference of the code requirements.
+[Sub header] Sentence 8.7.7.1.(4) - Explanatory Note:
+This section outlines the filter sand requirement for dispersal beds. Hi quality sand with limited fines, less than 5% passing the 200 sieve and a percolation time of at least 6 minutes and not more than 10 minutes is required. 
+The area of contact is also described as area in square meters =QT/850. 
+The combination of treatment and a minimum 500mm thickness of stone and sand are prescribed to protect public health. 
+
+(5)  Where the underlying soil has a percolation time of more than 15 min, the sand layer referred to in Sentence (4) shall,
+(a)	extend to at least 15 m beyond the perimeter of the treatment unit, or 	distribution pipes if utilized, in any direction that the effluent entering the soil  will move horizontally, and
+(b)	have an area that is not less than the value determined by the formula,
+
+Where:
+A =	the area of contact in square metres between the base of the sand and the underlying soil, or leaching bed fill if utilized
+Q =	the total daily design sanitary sewage flow in litres
+T =	the lesser of 50 and the percolation time of the underlying soil
+
+[Sub header] Sentence 8.7.7.1.(5) - Explanatory Note:
+This section provides the minimum requiremetns for leached bed fill surrounding the dispersal bed of 15 meters. 
+This is indicated to prevent horizontal flow of effluent from reaching the ground surface. The media area required shall be determined using the area in meters squared = QT/400
+
+(6)	The stone layer shall,
+	(a)	be rectangular in shape with the long dimension parallel to the site contours,
+	(b)	have a minimum thickness of 200 mm
+	(c)	be protected in the manner described in Sentence 8.7.3.3.(2)
+	(d)	be constructed such that the bottom of the stone layer is at least 600 mm above the high ground water table, rock or soil with a percolation time of 1 	min or less or greater than 50 min
+	(e)	have a minimum area not less than the value determined by the formula,
+	
+A = Q/B
+
+Where:
+A =	the area of the stone layer in square metres
+B =	the following amount
+	(i)		50, if the total daily design sanitary sewage flow exceeds 3 000 litres
+	(ii)	75, if the total daily design sanitary sewage flow does not exceed 3 000 litres
+Q =	the total daily design sanitary sewage flow in litres
+
+[Sub header] Sentence 8.7.7.1.(6) - Explanatory Note:
+This section outlines the stone layer which acts as the infiltrative surface. The stone layer shall be rectangular in shape and be located at least 600mm above any limiting layer. 
+The stone layer is to be rectangular in shape along the contour of the grade which will require that the calculation for the area be divided in a manner to provide for linear effluent application. The size of the stone layer is dictated by the quantity of sanitary sewage flow either less than or greater than 3000L per day.
+
+(7)  Leaching bed fill with a percolation time not exceeding 15 min may be used to satisfy the vertical separation requirements of Clause (6)(d), provided that the leaching bed fill conforms to the requirements specified in Sentence (5) regardless of the percolation time of the underlying soil.
+
+[Sub header] Sentence 8.7.7.1.(7)  - Explanatory Note:
+A type A dispersal bed may be installed on leaching bed fill to obtain the vertical separation of 600 mm provided the leaching bed fill does not exceed percolation time of 15 minutes and the leaching bed fill area is calculated in accordance with section 5 (A=QT/400)
+
+(8)  The effluent shall be evenly distributed within the stone layer to within 600 mm of the perimeter of the stone layer.
+
+[Sub header] Sentence 8.7.7.1.(8) - Explanatory Note:
+This section provides that effluent be evenly distributed on the stone layer but does not prescribe how this is to be achieved.
+
+(9)  The stone layer shall not be located closer than the minimum horizontal distances set out in Table 8.2.1.6.B. and these distances shall be increased when required by Sentence 8.7.4.2.(11).
+
+[Sub header] Type A Bed Site Plan
+
+[NC image 7 Type A]
+
+[NC image 8 Type A]

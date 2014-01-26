@@ -1,14 +1,22 @@
-[SECTION] Introduction
+[SECTION] OBC Division B 8.9.3.5.(1)
 
-[HEADER] Purpose:
+[HEADER]OBC Division B 8.9.3.5.(1)
+This sets requirements for checking the pressure head in a pressurized distribution system.
 
-The OWW – Onsite Wastewater Reference Guide APP is derived from the requirements under the:
+[Sub header] 8.9.3.5. Pressurized Distribution Systems
+(1)  The pressure head at the furthest point from the pump in all distribution pipes shall be checked for compliance with Articles 8.7.6.1. and 8.7.8.2. and the design specification at least every 36 months.
 
-Building Code Act, 1992 S.O. 1992, CHAPTER 23
-Ontario Regulation 332/12, Building Code
+[Sub header] Sentence 8.9.3.5.(1) - Explanatory Note:
+The section provides for testing of residual pressure head every 36 months for pressurized systems. - i.e. Shallow buried trench and Type A and B dispersal beds. 
 
-This reference guide is intended to emphasis the requirements of the Act and Regulation as it applies the design, installation, construction, operation and maintenance of Sewage Systems as defined in the Ontario Building Code (OBC). 
+[HEADER]  (End of Section pertaining to New OBC Part 8 Code Changes)
 
-[HEADER] Scope: 
+[HEADER]  To purchase additional Onsite Wastewater APPs visit: 
 
-This guideline is intended to assist inspectors, designers and installers in determining the most prominent features of Sewage Systems necessary to meet the requirements of the Ontario Building Code (OBC). The OBC and Building Code Act are the official documents of reference.  Note: Note all information in the OBC Ontario Building Code is contained in this guide, only specific portions that will assist practitioners in the daily reference of the code requirements.
+Apps on Google Play (Books & Reference Section)
+https://play.google.com/store/apps/category/BOOKS_AND_REFERENCE?hl=en
+
+Apple: (Reference Section)
+https://itunes.apple.com/ca/genre/ios-reference/id6006?mt=8
+
+Search: Onsite Wastewater

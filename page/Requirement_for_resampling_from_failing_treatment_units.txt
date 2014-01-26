@@ -1,14 +1,12 @@
-[SECTION] Introduction
+[SECTION] OBC Division B 8.9.2.4.(4)
 
-[HEADER] Purpose:
+[HEADER]OBC Division B 8.9.2.4.(4)
 
-The OWW – Onsite Wastewater Reference Guide APP is derived from the requirements under the:
+This new change clarifies the requirement for re-sampling of effluent from treatment units failing to meet the effluent criteria within 6 months.
 
-Building Code Act, 1992 S.O. 1992, CHAPTER 23
-Ontario Regulation 332/12, Building Code
+(4)  If the results of the sampling required by Sentence (1) do not comply with Sentence (3), the person operating the treatment unit shall,
+	(a) resample the effluent in accordance with Clauses (1)(a) and (b) within 6 months after the previous sampling has been completed
+	(b)	promptly submit the results of the resampling required by Clause (a) to the chief building official
 
-This reference guide is intended to emphasis the requirements of the Act and Regulation as it applies the design, installation, construction, operation and maintenance of Sewage Systems as defined in the Ontario Building Code (OBC). 
-
-[HEADER] Scope: 
-
-This guideline is intended to assist inspectors, designers and installers in determining the most prominent features of Sewage Systems necessary to meet the requirements of the Ontario Building Code (OBC). The OBC and Building Code Act are the official documents of reference.  Note: Note all information in the OBC Ontario Building Code is contained in this guide, only specific portions that will assist practitioners in the daily reference of the code requirements.
+[Sub header] Sentence 8.9.2.4.(4)  - Explanatory Note: 
+This section outlines re-sampling requirements for treatment units found to be out of compliance in the original sampling.

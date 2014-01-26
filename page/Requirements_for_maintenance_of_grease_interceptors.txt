@@ -1,14 +1,18 @@
-[SECTION] Introduction
+[SECTION] OBC Division B 8.9.3.3.(1)
 
-[HEADER] Purpose:
+[HEADER]OBC Division B 8.9.3.3.(1)
+This code section is amended to require maintenance of grease interceptors in accordance with the CAN/CSA-B481.4 standard.
 
-The OWW – Onsite Wastewater Reference Guide APP is derived from the requirements under the:
+[Sub header] 8.9.3.3. Interceptors
+(1)	Every grease interceptor referred to in Article 8.1.3.1. shall be maintained in accordance with CAN/CSA-B481.4, “Maintenance of Grease Interceptors”.
 
-Building Code Act, 1992 S.O. 1992, CHAPTER 23
-Ontario Regulation 332/12, Building Code
+[Sub header] CSA - B481.4 - Maintenance of Grease Interceptors
+To help prevent grease buildup, grease interceptors are installed to separate and collect a maximum amount of FOG, (fats, oil, grease)
 
-This reference guide is intended to emphasis the requirements of the Act and Regulation as it applies the design, installation, construction, operation and maintenance of Sewage Systems as defined in the Ontario Building Code (OBC). 
+Grease interceptors are required to have markings indicating their FOG containment capacity. During operation, the grease interceptor’s containment chamber(s) fill with FOG. Once the containment capacity is reached, the interceptor’s removal efficiency begins to decrease until it no longer separates or captures FOG. 
 
-[HEADER] Scope: 
+To obtain the maximum removal efficiency from a grease interceptor, facilities need to
+	(a) establish and adhere to a regular schedule of cleaning and maintenance
+	(b) ensure that maintenance staff or external contractors follow the operating and maintenance (cleaning) instructions provided by the grease interceptor manufacturer
 
-This guideline is intended to assist inspectors, designers and installers in determining the most prominent features of Sewage Systems necessary to meet the requirements of the Ontario Building Code (OBC). The OBC and Building Code Act are the official documents of reference.  Note: Note all information in the OBC Ontario Building Code is contained in this guide, only specific portions that will assist practitioners in the daily reference of the code requirements.
+Frequency of maintenance depends not only on the amount of FOG generated but on the facility’s implementation of best management practices to reduce the FOG discharged into the sanitary sewer system.

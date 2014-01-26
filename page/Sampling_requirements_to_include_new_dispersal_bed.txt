@@ -1,14 +1,15 @@
-[SECTION] Introduction
+[SECTION] OBC Division B 8.9.2.4.(1)
 
-[HEADER] Purpose:
+[HEADER] OBC Division B 8.9.2.4.(1)
 
-The OWW – Onsite Wastewater Reference Guide APP is derived from the requirements under the:
+(1)	Every person operating a treatment unit that is used in conjunction with a leaching bed constructed as a shallow buried trench, Type A dispersal bed or Type B dispersal bed shall,
+	(a)	take a grab sample of the effluent to determine the level of CBOD5 and suspended solids in the effluent
+	(b)	carry out the sampling required by Clause (1)(a) in accordance with the methods described in the APHA/AWWA/WEF, “Standard Methods for the Examination of Water and Wastewater”
+	(c)	promptly submit the results of the sampling required by Clause (a) to the chief 	building official.
 
-Building Code Act, 1992 S.O. 1992, CHAPTER 23
-Ontario Regulation 332/12, Building Code
+(2)	Except as provided in Sentence (4), the sampling required by Sentence (1) 	shall be conducted,
+	(a)	initially, once during the first 12 months after the sewage system was put into use
+	(b)	thereafter, once during every 12 month period, at least 10 months and not more than 18 months after the previous sampling has been completed
 
-This reference guide is intended to emphasis the requirements of the Act and Regulation as it applies the design, installation, construction, operation and maintenance of Sewage Systems as defined in the Ontario Building Code (OBC). 
-
-[HEADER] Scope: 
-
-This guideline is intended to assist inspectors, designers and installers in determining the most prominent features of Sewage Systems necessary to meet the requirements of the Ontario Building Code (OBC). The OBC and Building Code Act are the official documents of reference.  Note: Note all information in the OBC Ontario Building Code is contained in this guide, only specific portions that will assist practitioners in the daily reference of the code requirements.
+[Sub header] Sentence 8.9.2.4.(1) - Explanatory Note:
+This section provides for ongoing sampling of treatment units, sampling frequencies and the standards by which samples are collected and tested.

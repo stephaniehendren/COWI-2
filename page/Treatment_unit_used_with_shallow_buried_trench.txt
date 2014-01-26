@@ -1,14 +1,13 @@
-[SECTION] Introduction
+[SECTION] OBC Division B 8.7.6.1.(1)
 
-[HEADER] Purpose:
+[HEADER] OBC Division B 8.7.6.1.(1)
+Amended to reflect the new classification of a treatment unit to be used in conjunction with shallow buried trench system 
 
-The OWW – Onsite Wastewater Reference Guide APP is derived from the requirements under the:
+[Sub header] 8.7.6. Shallow Buried Trench
 
-Building Code Act, 1992 S.O. 1992, CHAPTER 23
-Ontario Regulation 332/12, Building Code
+[Sub header] 8.7.6.1. Construction Requirements
 
-This reference guide is intended to emphasis the requirements of the Act and Regulation as it applies the design, installation, construction, operation and maintenance of Sewage Systems as defined in the Ontario Building Code (OBC). 
+(1)  The treatment unit used in conjunction with a leaching bed constructed as a shallow buried trench shall provide an effluent quality that does not exceed the maximum concentrations set out opposite a Level IV treatment unit in Columns 2 and 3 of Table 8.6.2.2.
 
-[HEADER] Scope: 
-
-This guideline is intended to assist inspectors, designers and installers in determining the most prominent features of Sewage Systems necessary to meet the requirements of the Ontario Building Code (OBC). The OBC and Building Code Act are the official documents of reference.  Note: Note all information in the OBC Ontario Building Code is contained in this guide, only specific portions that will assist practitioners in the daily reference of the code requirements.
+[Sub header] Sentence 8.7.6.1. (1) - Explanatory Note:
+Amended to reflect the new classification of a treatment unit to be used in conjunction with a shallow buried trench system.
