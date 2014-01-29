@@ -1,23 +1,13 @@
 [SECTION] Review of Onsite Wastewater Definitions
 
 [Sub header] A Review of Onsite Wastewater
-An onsite wastewater treatment system is a method of collecting and treating the wastewater produced by a building or a small group of buildings on the same lot or neighbouring properties. 
+An onsite wastewater treatment system is a method of collecting and treating the wastewater produced by a building or a small group of buildings on the same lot or neighbouring properties. These systems are used in areas that do not have access to municipal sewer systems. The property may or may not be connected to city drinking water, a well, or may obtain water from a lake or river. Some onsite wastewater treatment uses a series of natural and sometimes mechanical processes to treat the wastewater and safely return it into the environment.
 
-These systems are used in areas that do not have access to municipal sewer systems. The property may or may not be connected to city drinking water, a well, or may obtain water from a lake or river. 
-
-Some onsite wastewater treatment uses a series of natural and sometimes mechanical processes to treat the wastewater and safely return it into the environment.
-
-The Ontario Building Code governs onsite systems that service a building or buildings that are contained on the same lot as the onsite system. 
-
-These systems are design to treat and dispose to a maximum of 10,000 litres per day. 
-
-In Ontario systems designed to handle more than 10,000 litres per day or systems servicing more than one lot are systems governed by the Ministry of Environment under the Ontario Water Resources Act.
+The Ontario Building Code governs onsite systems that service a building or buildings that are contained on the same lot as the onsite system. These systems are design to treat and dispose to a maximum of 10,000 litres per day. In Ontario systems designed to handle more than 10,000 litres per day or systems servicing more than one lot are systems governed by the Ministry of Environment under the Ontario Water Resources Act.
 
 
 [Sub header] Characteristics of Sewage
-Sewage can be divided into blackwater and greywater. Blackwater refers to human wastes (toilets and urinals) and greywater is wastewater from household activities that include laundry, washing dishes, preparing foods, cleaning, showers and other similar activities. 
-
-Both contain contaminants of concern and must be treated as sewage. Non-residential systems (i.e.. restaurants and other commercial uses) present further considerations that must be addressed in the system design and site assessment.
+Sewage can be divided into blackwater and greywater. Blackwater refers to human wastes (toilets and urinals) and greywater is wastewater from household activities that include laundry, washing dishes, preparing foods, cleaning, showers and other similar activities. Both contain contaminants of concern and must be treated as sewage. Non-residential systems (i.e.. restaurants and other commercial uses) present further considerations that must be addressed in the system design and site assessment.
 
 Understanding the characteristics of sewage and water flow are an essential part of success in the onsite wastewater treatment industry.
 
@@ -27,47 +17,28 @@ Wastewater or sewage is made up of a number of components that determine how a s
 
 
 [Sub header] Organic Material
-Organic material, in terms of wastewater treatment, is the biodegradable solid material found in sewage. For example, human excrement contains digested and partially digested food, such as the asparagus you ate for dinner last night and the bacon you had for breakfast.
-
-Since it is this organic material that feeds the bacteria necessary for the treatment of wastewater and which contribute to biomat formation, planning for the amount of organic material in the wastewater is critical to the proper operation of an onsite system.
-
-The amount of organic material, known as organic load or mass load, in the wastewater is normally written as biochemical (biological) oxygen demand or BOD.
-
-The results of the British “Royal Commission on River Pollution” (1865) and the “Royal Commission on Sewage Disposal” (1898) led to the selection of BOD as the “definitive test for organic pollution of rivers.” After 100 years, these British concepts are still used around the world.
+Organic material, in terms of wastewater treatment, is the biodegradable solid material found in sewage. For example, human excrement contains digested and partially digested food, such as the asparagus you ate for dinner last night and the bacon you had for breakfast. Since it is this organic material that feeds the bacteria necessary for the treatment of wastewater and which contribute to biomat formation, planning for the amount of organic material in the wastewater is critical to the proper operation of an onsite system. The amount of organic material, known as organic load or mass load, in the wastewater is normally written as biochemical (biological) oxygen demand or BOD. The results of the British “Royal Commission on River Pollution” (1865) and the “Royal Commission on Sewage Disposal” (1898) led to the selection of BOD as the “definitive test for organic pollution of rivers.” After 100 years, these British concepts are still used around the world.
 
 
 [Sub header] Aerobic vs. Anaerobic
-Aerobic bacteria live and multiply in the presence of free oxygen. Facultative bacteria always achieve an aerobic state when oxygen is present. 
-
-While the name “aerobic” implies breathing air, dissolved oxygen is the primary source of energy for aerobic bacteria. The metabolism of aerobes is much higher than for anaerobes. 
-
-The increase of aerobes means that 90% fewer organisms are needed compared to the anaerobic process, or that treatment is accomplished in 90% less time. This provides a number of advantages including a higher percentage of organic removal. The by-products of aerobic bacteria are carbon dioxide and water. 
-
-Aerobic bacteria live in colonial structures called floc and are kept in suspension by the mechanical action used to introduce oxygen into the wastewater. This mechanical action exposes the floc to the organic material while treatment takes place. 
-
-Following digestion, a gravity clarifier separates and settles out the floc. Because of the mechanical nature of the aerobic digestion process, maintenance and operator oversight are required.
+Aerobic bacteria live and multiply in the presence of free oxygen. Facultative bacteria always achieve an aerobic state when oxygen is present. While the name “aerobic” implies breathing air, dissolved oxygen is the primary source of energy for aerobic bacteria. The metabolism of aerobes is much higher than for anaerobes. The increase of aerobes means that 90% fewer organisms are needed compared to the anaerobic process, or that treatment is accomplished in 90% less time. This provides a number of advantages including a higher percentage of organic removal. The by-products of aerobic bacteria are carbon dioxide and water. Aerobic bacteria live in colonial structures called floc and are kept in suspension by the mechanical action used to introduce oxygen into the wastewater. This mechanical action exposes the floc to the organic material while treatment takes place. Following digestion, a gravity clarifier separates and settles out the floc. Because of the mechanical nature of the aerobic digestion process, maintenance and operator oversight are required.
 
 
-[Sub header] Biochemical oxygen demand (BOD): A commonly used gross measurement of the concentration of biodegradable organic impurities in wastewater. 
+[Sub header] Biochemical Oxygen Demand (BOD)
+A commonly used gross measurement of the concentration of biodegradable organic impurities in wastewater. BOD is established through a laboratory test of the oxygen consumed by a sample of the wastewater over a 5 day incubation period and the test is therefore more accurately written as “BOD5”. The reason 5 days was chosen is that it takes approximately 5 days for water to travel from its source to an estuary in the United Kingdom.
 
-BOD is established through a laboratory test of the oxygen consumed by a sample of the wastewater over a 5 day incubation period and the test is therefore more accurately written as “BOD5”. The reason 5 days was chosen is that it takes approximately 5 days for water to travel from its source to an estuary in the United Kingdom.
-
-The BOD5 test gives a measure of the amount of biodegradable organic matter present in the sample. It is written in milligrams per litre, mg/L (which is equivalent to parts per million (ppm)).
-
-The amount of oxygen, expressed in milligrams per litre (mg/L), required by bacteria while stabilizing, digesting, or treating organic matter under aerobic conditions is determined by the availability of material in the wastewater to be used as biological food and the amount of oxygen used by the microorganisms during oxidation. 
-
-Normally BOD5 is used, being the BOD over a 5 day incubation period. cBOD is a measure of the carbonaceous BOD, obtained by using a chemical inhibitor to block nitrification. nBOD is a measure of the nitrogenous BOD, obtained by performing a cBOD test first. uBOD is ultimate uBOD, the oxygen required to complete the oxidation, synthesis and endogenous respiration in a sample of wastewater.
+The BOD5 test gives a measure of the amount of biodegradable organic matter present in the sample. It is written in milligrams per litre, mg/L (which is equivalent to parts per million (ppm). The amount of oxygen, expressed in milligrams per litre (mg/L), required by bacteria while stabilizing, digesting, or treating organic matter under aerobic conditions is determined by the availability of material in the wastewater to be used as biological food and the amount of oxygen used by the microorganisms during oxidation. Normally BOD5 is used, being the BOD over a 5 day incubation period. cBOD is a measure of the carbonaceous BOD, obtained by using a chemical inhibitor to block nitrification. nBOD is a measure of the nitrogenous BOD, obtained by performing a cBOD test first. uBOD is ultimate uBOD, the oxygen required to complete the oxidation, synthesis and endogenous respiration in a sample of wastewater.
 
 BOD is reduced in the wastewater by settlement, for example in a septic tank, and by bacterial digestion.
 
-[NC Image 1 BOD levels for water]
+"[NCImage1BODlevelsforWater]"
 
 Another test associated with aerobic digestion by bacteria is the chemical oxygen demand (COD) test. It is a quick test used to determine how much oxygen is needed to oxidize the wastewater using dichromate acid in solution.
 
 BOD5 is normally:
-•	0.3 to 0.8 X the COD for sewage;
-•	0.4 to 0.6 X the COD for Primary effluent; and
-•	0.1 to 0.3 X the COD for secondary effluent.
+• 0.3 to 0.8 X the COD for sewage
+• 0.4 to 0.6 X the COD for Primary effluent
+• 0.1 to 0.3 X the COD for secondary effluent
 
 
 [Sub Header] Suspended Solids
@@ -87,18 +58,14 @@ Together, BOD and TSS are used to define the “strength” of the sewage or eff
 
 
 [Sub header] Primary Treatment
-Primary treatment is normally a settlement and floatation process as in a septic tank and can include a screening process such as an effluent filter. Some solids are anaerobically broken down but dissolved contaminants are not significantly removed.
-
-Domestic Residential Raw Sewage is typically defined as having a BOD5 and a TSS of about 100 - 400 mg/L each.
-
-A septic tank sized for a two day retention time with effluent filter should be able to provide effluent with TSS removal of between 75% and 80% with figures around 20 to 60 mc/L (ppm) and BOD removal of between 35% and 35% with figures of 100 to 150 mg/L (ppm).
+Primary treatment is normally a settlement and floatation process as in a septic tank and can include a screening process such as an effluent filter. Some solids are anaerobically broken down but dissolved contaminants are not significantly removed. Domestic Residential Raw Sewage is typically defined as having a BOD5 and a TSS of about 100 - 400 mg/L each. A septic tank sized for a two day retention time with effluent filter should be able to provide effluent with TSS removal of between 75% and 80% with figures around 20 to 60 mc/L (ppm) and BOD removal of between 35% and 35% with figures of 100 to 150 mg/L (ppm).
 
 
 [Sub header] Secondary Treatment
 Secondary is defined as an aerobic based treatment device or process that achieves an effluent quality at discharge of:
 
 BOD5 < 40 mg/L
-TSS< 30 mg/L 
+TSS < 30 mg/L 
 
 
 [Sub header] Tertiary Treatment
@@ -120,6 +87,6 @@ Access to monitoring information should allow the maintenance provider or design
 
 
 [Sub header] pH
-pH is a measure of acidity or alkalinity. It provides a measure on a scale from 0 to 14 of the acidity or alkalinity of a solution with 7 being neutral. Numbers greater than 7 indi¬cate the material is more alkaline and less than 7 is more acidic. 
+pH is a measure of acidity or alkalinity. It provides a measure on a scale from 0 to 14 of the acidity or alkalinity of a solution with 7 being neutral. Numbers greater than 7 indicate the material is more alkaline and less than 7 is more acidic. 
 
 Sewage normally has a pH of 6–8.5, effluent of 7.1–8.3. It is desirable to keep effluent pH in the range 6–8.5 as outside this range it is difficult to use biological treatment.

@@ -1,41 +1,31 @@
-[SECTION] OBC Division B - 8.1.3.1.
+[SECTION]Reference Standard for Grease Interceptors 
+[Sub Header]OBC Division B - 8.1.3.1.
 
 Reference standards for grease interceptors are introduced:
 •	Lard - CAN/CSA-B481.1
 •	Oil – CAN/CSA-B481.2
 
-[NC Image 3 CSA logo]
+"[NCImage3csalogo]"
 
 Canadian Standards Group (CSA) is a not-for-profit membership-based association serving: 
 •	Business
 •	Industry
 •	Government
-
 CSA develops standards that address and improve public health and safety. 
 
 Grease interceptors come manufactured in a variety of materials. Concrete for in ground installations, stainless steel, fiberglass, and plastics are materials that are used in the manufacturing process.
 
 [Sub Header] The Ontario Plumbing Code  - OBC Part 7 states:
 "Where a fixture that discharges sewage that includes grease is located in a public kitchen or restaurant or in an institution, a grease interceptor shall be installed."
+
 According to the Code, grease interceptors are required in all commercial, institutional and industrial establishments where food is prepared or processed. 
 
 [Sub header] Fats, Oils and Grease (FOG)
-It is important to note that fats, oils and grease (FOG) will coat equipment (floats and pumps), soil or sand particles in the dispersal field and reduce the effectiveness of soil treatment. They will also lead to soil or sand plugging. 
-
-Treatment plants and dispersal pipes will also suffer from plugging and reduced effectiveness. Sand mounds and other systems using sand or other filter mediums below the infiltrative surface are particularly vulnerable to FOG.
-
-A maximum FOG level for domestic sewage of 100 mg/L, with maximum FOG level in effluent to the dispersal field of 20 mg/L and 15 mg/L for sand mounds or sand filters.
-
-Restaurants can produce high levels of FOG that must be removed prior to reaching the treatment train. This is achieved by settlement and flotation in separators and grease interceptors. 
-
-Traditionally, restaurants used “grease traps”, which worked quite well with easily separated animal fats and where water temperatures were low enough for hand washing dishes.
-
-With increasing use of light oils and high temperature washes, FOG removal is more difficult. While restaurants are always of concern, some residential uses have home businesses that may produce high levels of FOG. 
-
-The performance of a grease interceptor is a function of two factors related to the size of the interceptor, wastewater retention time, and solids storage capacity.
+It is important to note that fats, oils and grease (FOG) will coat equipment (floats and pumps), soil or sand particles in the dispersal field and reduce the effectiveness of soil treatment. They will also lead to soil or sand plugging. Treatment plants and dispersal pipes will also suffer from plugging and reduced effectiveness. Sand mounds and other systems using sand or other filter mediums below the infiltrative surface are particularly vulnerable to FOG. A maximum FOG level for domestic sewage of 100 mg/L, with maximum FOG level in effluent to the dispersal field of 20 mg/L and 15 mg/L for sand mounds or sand filters. Restaurants can produce high levels of FOG that must be removed prior to reaching the treatment train. This is achieved by settlement and flotation in separators and grease interceptors. Traditionally, restaurants used “grease traps”, which worked quite well with easily separated animal fats and where water temperatures were low enough for hand washing dishes. With increasing use of light oils and high temperature washes, FOG removal is more difficult. While restaurants are always of concern, some residential uses have home businesses that may produce high levels of FOG. The performance of a grease interceptor is a function of two factors related to the size of the interceptor, wastewater retention time, and solids storage capacity.
 
 [Sub header] OBC 8.1.3.1. Discharge
 (1) 	Except as provided in Sentences (2) to (6), the sewage system shall be 	designed and constructed to receive only sanitary sewage of domestic origin.
 (4)	Where kitchen waste water from a restaurant has passed through an 	operating grease interceptor, it may discharge to a leaching bed provided the 	sewage system has been designed in accordance with good engineering 	practice.
 (5)	Waste water from a kitchen equipped with a garbage grinder may be 	directed to the sewage system provided the system has been designed to 	accept such waste water.
+
 (Note: In many municipalities by-laws have been passed not allowing the installation of food grinders. When a food grinder or garburator is to be installed, the sizing for the septic tank should be reviewed.)

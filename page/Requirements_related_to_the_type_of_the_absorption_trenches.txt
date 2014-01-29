@@ -1,11 +1,10 @@
-[SECTION] OBC Division B 8.7.4.2.(1)
-
-[HEADER] OBC Division B 8.7.4.2.(1)
+[SECTION] Requirements Related to the Type of the Absorption Trenches
+[SUB HEADER] OBC Division B 8.7.4.2.(1)
 
 [Sub Header] 8.7.4.2. Construction Requirements
 (1)  Except for a shallow buried trench, a leaching bed comprised of absorption trenches may be constructed in leaching bed fill, if unsaturated soil or leaching bed fill complying with Subclause 8.7.2.1.(1)(b)(ii) extends,
 	(a) 	to a depth of at least 250 mm over the area covered by the leaching bed fill
 	(b) 	for at least 15 m beyond the outer distribution pipes in any direction in which the effluent entering the soil or leaching bed fill will move horizontally
 
-[Sub Header] Sentence 8.7.4.2. (1) - Explanatory Note:
+[Sub Header] Sentence 8.7.4.2. (1) - Explanatory Note
 The change to this section is to ensure soil mantel is used for all raised leaching beds to provide protection from system breakout.

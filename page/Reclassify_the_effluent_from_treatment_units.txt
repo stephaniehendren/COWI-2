@@ -1,27 +1,22 @@
-[SECTION] OBC Division B - 8.6.2.2. (1)
-
-[HEADER] OBC Division B - 8.6.2.2. (1)
-
-[Sub header] Tertiary Treatment Units: 
-The section has been amended to re-classify the effluent from treatment units into a three-level system.
-
+[SECTION] Reclassify the Effluent From Treatment Units
+[SUB HEADER] OBC Division B - 8.6.2.2. (1)
+[Sub header] Tertiary Treatment Units
+The section has been amended to re-classify the effluent from treatment units into a three-level system
 •	Level II – 30 mg/l suspended solids and 25 mg/l CBOD
-
 •	Level III – 15 mg/l suspended solids and 15 mg/l CBOD
-
 •	Level IV – 10 mg/l suspended solids and 10 mg/l CBOD 
-
-[Sub header] 8.6.2.2.(1)  Except as provided in Sentence (2), a treatment unit, other than a septic tank, shall be designed such that the effluent does not exceed, for the level of the treatment unit set out in Column 1 of Table 8.6.2.2., the maximum concentrations set out opposite it in Columns 2 and 3 of Table 8.6.2.2.
+Except as provided in Sentence (2), a treatment unit, other than a septic tank, shall be designed such that the effluent does not exceed, for the level of the treatment unit set out in Column 1 of Table 8.6.2.2., the maximum concentrations set out opposite it in Columns 2 and 3 of Table 8.6.2.2.
 
 [Sub header] Table 8.6.2.2. - Other Treatment Unit Effluent Quality Criteria
 Forming Part of Sentences 8.6.2.2.(1) and (2)
 
-[NC Image 6 – table 8.6.2.2.]
+"[NCImage6table8.6.2.2]"
 
-[HEADER] 8.6.2.2. Other Treatment Units is also amended to include Dispersal Bed  A and Dispersal Bed B to the systems that require the use of Level IV treatment units. 
- 
-[Sub header] Type A Dispersal Bed is a leaching bed that receives effluent from a Level IV treatment unit as described in Table 8.6.2.2. of OBC Division B and that is comprised of a stone layer above an unsaturated sand layer as described in Subsection 8.7.7. of OBC Division B.
-[Sub header] Type B Dispersal Bed is a leaching bed comprised of a pressurized distribution system that uniformly distributes effluent from a Level IV treatment unit as described in Table 8.6.2.2. of OBC Division B to the underlying soil, as defined in Part 8 of OBC Division B, through a set of distribution pipes installed in a bed comprised of septic stone.
-[Sub header] Sentence 8.6.2.2. (1) - Explanatory Note:
+[SUB HEADER] 8.6.2.2. Other Treatment Units is also amended to include Dispersal Bed A and Dispersal Bed B to the systems that require the use of Level IV treatment units. 
+Type A Dispersal Bed is a leaching bed that receives effluent from a Level IV treatment unit as described in Table 8.6.2.2. of OBC Division B and that is comprised of a stone layer above an unsaturated sand layer as described in Subsection 8.7.7. of OBC Division B.
+
+Type B Dispersal Bed is a leaching bed comprised of a pressurized distribution system that uniformly distributes effluent from a Level IV treatment unit as described in Table 8.6.2.2. of OBC Division B to the underlying soil, as defined in Part 8 of OBC Division B, through a set of distribution pipes installed in a bed comprised of septic stone.
+[Sub header] Sentence 8.6.2.2. (1) - Explanatory Note
 The change is provided to establish a selection of treatment levels for system design and to establish consistent terminology with the CAN/BNQ 3680-600, “Onsite Residential Wastewater Treatment Technologies” testing standard. 
+
 These changes will allow for more flexibility for system designers.

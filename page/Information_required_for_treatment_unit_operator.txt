@@ -1,9 +1,6 @@
-[SECTION] OBC Division B 8.6.2.2.(6)
-
-[HEADER] OBC Division B 8.6.2.2.(6)
-
-[Sub header] 8.6.2.2.(6)
+[SECTION] Information Required for Treatment Unit Operator
+[SUB HEADER] OBC Division B 8.6.2.2.(6)
 Every operator of a treatment unit shall obtain, from the manufacturer or distributor of the treatment unit, literature that describes the unit in detail and provides complete instructions regarding the operation, servicing, and maintenance requirements of the unit and its related components necessary to ensure the continued proper operation in accordance with the original design and specifications.
 
-[Sub header] Sentence 8.6.2.2. (6)  - Explanatory Note:
+[Sub header] Sentence 8.6.2.2. (6)  - Explanatory Note
 This section was revised to ensure that the operator of the system had complete information to carry out monitoring and maintenance. It also suggests that the manufacturer of the system cannot withhold required operation information.

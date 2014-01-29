@@ -1,14 +1,11 @@
-[SECTION] OBC Division B 8.7.2.2.(2)
-
-[HEADER] OBC Division B 8.7.2.2.(2)
-
-[Sub header] 8.7.2.2. Distribution Pipes within Leaching Beds
+[SECTION] Detection of Distribution Pipes Within Leaching Beds
+[SUB HEADER] OBC Division B 8.7.2.2.(2)
+[SUB HEADER] 8.7.2.2. Distribution Pipes within Leaching Beds
 (1)  Sentence (2) applies to the design and construction of a leaching bed with distribution pipes used within the leaching bed.
-
 (2)  The header line and distribution pipes within a leaching bed shall be designed and constructed so that they can be detected by,
 	(a)	magnetic means
 	(b)	means of a 14 gauge TW solid copper light coloured plastic coated tracer wire
 	(c)	other means of subsurface detection
 
-[Sub header] Sentence 8.7.2.2. (2) - Explanatory Note:
+[Sub header] Sentence 8.7.2.2. (2) - Explanatory Note
 The purpose of this section is to allow for easy location of the pipes within the system and to facilitate maintenance.	

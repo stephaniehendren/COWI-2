@@ -1,13 +1,11 @@
-[SECTION] OBC Division B 8.7.6.1.(1)
-
-[HEADER] OBC Division B 8.7.6.1.(1)
-Amended to reflect the new classification of a treatment unit to be used in conjunction with shallow buried trench system 
+[SECTION] Treatment Unit Used with Shallow Buried Trench
+[SUB HEADER] OBC Division B 8.7.6.1.(1)
+Amended to reflect the new classification of a treatment unit to be used in conjunction with shallow buried trench system.
 
 [Sub header] 8.7.6. Shallow Buried Trench
 
 [Sub header] 8.7.6.1. Construction Requirements
+(1) The treatment unit used in conjunction with a leaching bed constructed as a shallow buried trench shall provide an effluent quality that does not exceed the maximum concentrations set out opposite a Level IV treatment unit in Columns 2 and 3 of Table 8.6.2.2.
 
-(1)  The treatment unit used in conjunction with a leaching bed constructed as a shallow buried trench shall provide an effluent quality that does not exceed the maximum concentrations set out opposite a Level IV treatment unit in Columns 2 and 3 of Table 8.6.2.2.
-
-[Sub header] Sentence 8.7.6.1. (1) - Explanatory Note:
+[Sub header] Sentence 8.7.6.1. (1) - Explanatory Note
 Amended to reflect the new classification of a treatment unit to be used in conjunction with a shallow buried trench system.

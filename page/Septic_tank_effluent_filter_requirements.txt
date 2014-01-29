@@ -1,15 +1,13 @@
-[SECTION] OBC Division B - 8.6.2.1. (2)
-
-[HEADER] OBC Division B - 8.6.2.1. (2)
-
+[SECTION] Septic Tank and Effluent Filter Requirements
+[Sub Header] OBC Division B - 8.6.2.1. (2)
 [Sub header] 8.6.2.1. Septic Tank Systems
 (1)  	An effluent filter shall be installed in the outlet flow path of every septic tank that discharges effluent to a leaching bed
 (2)  	The septic tank effluent filter required by Sentence (1) shall
-		(a) 	conform to the requirements of NSF/ANSI 46, “Evaluation of Components and Devices Used in Wastewater Treatment Systems”
-		(b)		be sized to filter particles of 1.6 mm
-		(c)		have a minimum area of 550 cm2
-		(d)		be installed in accordance with the manufacturer’s recommendations
-(3) 	 A secured access opening to allow for regular maintenance of the effluent filter shall be provided at the ground surface
+(a) 	conform to the requirements of NSF/ANSI 46, “Evaluation of Components and Devices Used in Wastewater Treatment Systems”
+(b)		be sized to filter particles of 1.6 mm
+(c)		have a minimum area of 550 cm2
+(d)		be installed in accordance with the manufacturer’s recommendations
+(3) 	A secured access opening to allow for regular maintenance of the effluent filter shall be provided at the ground surface
 
 [Sub header] Sentence 8.6.2.1. (2) - Explanatory Note:
 The change is provided to limit suspended solids from entering the field from the septic tank, which could lead to premature system failure. The code section provides for the use of only NSF/ANSI 46 evaluated effluent filters.
@@ -17,6 +15,5 @@ The change is provided to limit suspended solids from entering the field from th
 [Sub header] Tertiary Treatment
 In tertiary treatment there is usually at least one more treatment stage than in secondary treatment. The additional treatment stage is referred to as polishing. Tertiary or tertiary treatment is defined as an aerobic based treatment method that achieves an effluent quality at discharge to the dispersal site of:
 
-•	BOD5< 15 mg/L
-
-•	TSS< 10 mg/L
+BOD5 < 15 mg/L
+TSS < 10 mg/L

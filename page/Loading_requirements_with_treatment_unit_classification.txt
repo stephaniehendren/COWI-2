@@ -1,12 +1,11 @@
-[SECTION] OBC Division B 8.7.5.2.(5)
-
-[HEADER] OBC Division B 8.7.5.2.(5)
+[SECTION] Loading Requirements with Treatment Unit Classification
+[SUB HEADER] OBC Division B 8.7.5.2.(5)
 This is revised and restructured to reflect the new classification of treatment units
 
 [Sub header] 8.7.5.2. Loading Requirements
 (5)  Where a Level II, Level III or Level IV treatment unit as described in Table 8.6.2.2. is used in conjunction with a filter bed, the effective area shall be such that the loading on the surface of the filter medium does not exceed 100 L/m2 per day.
 
-[Sub header] Sentence 8.7.5.2. (5) - Explanatory Note:
+[Sub header] Sentence 8.7.5.2. (5) - Explanatory Note
 This section limits loading rates from treatment systems to a maximum of 100 L/m2 discharged to filter beds and reflects new classifications for treatment units. 
 
 When using this section the practitioner must take into consideration section 8.7.4.2 for “mantel area”.

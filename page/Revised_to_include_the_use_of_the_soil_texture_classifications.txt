@@ -1,21 +1,18 @@
-[SECTION] OBC - Division B - 8.2.1.2(2)
-
-[HEADER] OBC - Division B - 8.2.1.2(2) ▲ 	 
-
+[SECTION] Revised to Include the Use of the Soil Texture Classifications
+[Sub Header] OBC - Division B - 8.2.1.2(2)
 This is revised to include the use of the soil texture classifications as an acceptable method in determining the soil percolation time.
 
 The most important aspect of any onsite wastewater system is the condition of the receiving soil for the effluent. Proper evaluation of the soil will ensure a proper design and installation of any septic system.   
 
 [Sub header] 8.2.1.2. Site Evaluation	
-(1)	A site evaluation shall be conducted on every site where a new or replacement sewage system is to be installed.
-(2)	The percolation time shall be determined by
+(1)	A site evaluation shall be conducted on every site where a new or replacement sewage system is to be installed
+(2)	The percolation time shall be determined by:
 (a)	conducting percolation tests
-(b)	classifying the soil according to one of the following methods;
-
+(b)	classifying the soil according to one of the following methods:
 	(i)		the Unified Soil Classification System as described in MMAH Supplementary Standard SB-6, “Percolation Time and Soil Descriptions”
 	(ii)	the Soil Texture Classification as described in Chapter 3 of USDA, “Soil Survey Manual”.
 
-[Sub header] Sentence 8.2.1.2.(2) - Explanatory Note:
+[Sub header] Sentence 8.2.1.2.(2) - Explanatory Note
 The change is provided to improve soil analysis and provide for various methods of determining soil characteristics.
 
 [Sub header] USDA - Soil Survey Manual
@@ -24,13 +21,11 @@ A description of the soils is essential in any soil survey. Chapter 3 of the USD
 [Sub header] Site Evaluation 
 (ii)the Soil Texture Classification as described in Chapter 3 of USDA, “Soil Survey Manual”.
 
-[NC Image 4 soils graph]
+"[NCImage4soilsgraph]"
 
 [Sub header] Effluent Filters
+Effluent filter requirements have been revised to specify the maximum size of particles permitted to pass through the effluent filter and prescribe the minimum area of the filter. Many precasters now provide effluent filters in their septic tanks.
 
-Effluent filter requirements have been revised to specify the maximum size of particles permitted to pass through the effluent filter and prescribe the minimum area of the filter. 
-Many precasters now provide effluent filters in their septic tanks.
+Installers and designers should ensure the effluent filters that are installed meet the new requirements, and conform to the requirements of NSF/ANSI 46.
 
-Installers and designers should ensure the effluent filters that are installed meet the new requirements, and conform to the requirements of NSF/ANSI 46. 
-  
-[NC Image 5 filters]
+"[NCImage5filters]"

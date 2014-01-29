@@ -1,14 +1,12 @@
-[SECTION] OBC Division B 8.7.1.2.(1)
-
-[HEADER] OBC Division B 8.7.1.2.(1)
-
+[SECTION] Design and Installation of a Shallow Buried Trench
+[SUB HEADER] OBC Division B 8.7.1.2.(1)
 Section 8.7.Leaching Beds
 8.7.1. General Requirements
 8.7.1.1. Scope
-(1)  This Section applies to the construction of leaching beds.
+(1)	This Section applies to the construction of leaching beds.
 
 [Sub header] 8.7.1.2. Limitation on Installation
-(1)  	The design and installation of a shallow buried trench, Type A dispersal bed or Type B dispersal bed shall be carried out by a person competent in this field of work. 
+(1)	The design and installation of a shallow buried trench, Type A dispersal bed or Type B dispersal bed shall be carried out by a person competent in this field of work. 
 
-[Sub header] Sentence 8.7.1.2. (1) - Explanatory Note: 
+[Sub header] Sentence 8.7.1.2. (1) - Explanatory Note
 The design and installation of the systems outlined in this section may be complex or take place on difficult site conditions which will require a person who has the training and experience to carry out this type of work.

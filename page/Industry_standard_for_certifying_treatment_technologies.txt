@@ -1,7 +1,5 @@
-[SECTION] OBC Division B 8.6.2.2.(5)
-
-[HEADER] OBC Division B 8.6.2.2.(5)
-
+[SECTION] Industry Standard for Certifying Treatment Technologies
+[SUB HEADER] OBC Division B 8.6.2.2.(5)
 This change references a new national industry standard (CAN-BNQ 3680-600) for certifying residential wastewater treatment technologies. Manufacturers will have until 2016 to meet the new standard. In the past treatment technologies have been required to have NSF Approval or an OBC – SB-5 approval to be installed in the province. The purpose of this change is to improve certification protocols and to use Canadian Standards.
 
 [Sub header] 8.6.2.2.(5)  A treatment unit is deemed to comply with Sentences (1) and (2) if it
