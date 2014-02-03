@@ -1,6 +1,5 @@
-[SECTION] OBC Division B 8.9.3.5.(1)
-
-[HEADER]OBC Division B 8.9.3.5.(1)
+[SECTION] Requirement for Pressure Head in a Pressurized Distribution System
+[SUB HEADER] OBC Division B 8.9.3.5.(1)
 This sets requirements for checking the pressure head in a pressurized distribution system.
 
 [Sub header] 8.9.3.5. Pressurized Distribution Systems
@@ -8,8 +7,6 @@ This sets requirements for checking the pressure head in a pressurized distribut
 
 [Sub header] Sentence 8.9.3.5.(1) - Explanatory Note:
 The section provides for testing of residual pressure head every 36 months for pressurized systems. - i.e. Shallow buried trench and Type A and B dispersal beds. 
-
-[HEADER]  (End of Section pertaining to New OBC Part 8 Code Changes)
 
 [HEADER]  To purchase additional Onsite Wastewater APPs visit: 
 

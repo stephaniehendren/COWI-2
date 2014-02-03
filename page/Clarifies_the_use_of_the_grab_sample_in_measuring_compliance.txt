@@ -1,6 +1,5 @@
-[SECTION] OBC Division B 8.9.2.4.(3)
-
-[HEADER]OBC Division B 8.9.2.4.(3)
+[SECTION] Clarifies the Use of the Grab Sample in Measuring Compliance
+[SUB HEADER]OBC Division B 8.9.2.4.(3)
 
 This change clarifies the use of the grab sample in measuring compliance.
 

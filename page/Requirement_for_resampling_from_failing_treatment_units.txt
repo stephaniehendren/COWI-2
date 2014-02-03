@@ -1,7 +1,5 @@
-[SECTION] OBC Division B 8.9.2.4.(4)
-
-[HEADER]OBC Division B 8.9.2.4.(4)
-
+[SECTION] Requirement for Resampling From Failing Treatment Units
+[SUB HEADER]OBC Division B 8.9.2.4.(4)
 This new change clarifies the requirement for re-sampling of effluent from treatment units failing to meet the effluent criteria within 6 months.
 
 (4)  If the results of the sampling required by Sentence (1) do not comply with Sentence (3), the person operating the treatment unit shall,

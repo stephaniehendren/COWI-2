@@ -1,6 +1,5 @@
 [SECTION] OBC Division B 8.9.3.3.(1)
-
-[HEADER]OBC Division B 8.9.3.3.(1)
+[SUB HEADER]OBC Division B 8.9.3.3.(1)
 This code section is amended to require maintenance of grease interceptors in accordance with the CAN/CSA-B481.4 standard.
 
 [Sub header] 8.9.3.3. Interceptors

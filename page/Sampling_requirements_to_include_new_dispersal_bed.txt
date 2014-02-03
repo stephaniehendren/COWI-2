@@ -1,13 +1,12 @@
 [SECTION] OBC Division B 8.9.2.4.(1)
-
-[HEADER] OBC Division B 8.9.2.4.(1)
+[SUB HEADER] OBC Division B 8.9.2.4.(1)
 
 (1)	Every person operating a treatment unit that is used in conjunction with a leaching bed constructed as a shallow buried trench, Type A dispersal bed or Type B dispersal bed shall,
 	(a)	take a grab sample of the effluent to determine the level of CBOD5 and suspended solids in the effluent
 	(b)	carry out the sampling required by Clause (1)(a) in accordance with the methods described in the APHA/AWWA/WEF, “Standard Methods for the Examination of Water and Wastewater”
-	(c)	promptly submit the results of the sampling required by Clause (a) to the chief 	building official.
+	(c)	promptly submit the results of the sampling required by Clause (a) to the chief building official
 
-(2)	Except as provided in Sentence (4), the sampling required by Sentence (1) 	shall be conducted,
+(2)	Except as provided in Sentence (4), the sampling required by Sentence (1) shall be conducted,
 	(a)	initially, once during the first 12 months after the sewage system was put into use
 	(b)	thereafter, once during every 12 month period, at least 10 months and not more than 18 months after the previous sampling has been completed
 
