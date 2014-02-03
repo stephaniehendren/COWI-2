@@ -6,9 +6,9 @@
         version   = "0.0.4"
 	>
 
-    <name>OBC Part 8</name>
-    <apptitle>OBC Part 8</apptitle>
-    <description>OBC Part 8</description>
+    <name>OBC New Code Changes Part 8</name>
+    <apptitle>OBC New Code Changes Part 8</apptitle>
+    <description>OWW - OBC New Code Changes Part 8</description>
     <author href="http://AppDevPtbo.ca" email="contact@appdevptbo.ca">AppDevPtbo.ca</author>
 
     <feature name="http://api.phonegap.com/1.0/device" />
